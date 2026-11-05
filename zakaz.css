@@ -6,4 +6,4 @@
 .card,.cat-c .card,.add,.cat-c .add{border-radius:0!important}
 .cat-b .add{background:#ae163d;color:#fff6ef}
 .categories{scrollbar-width:none;-ms-overflow-style:none}.categories::-webkit-scrollbar{display:none;width:0;height:0}
-.card img,.cat-b .card img,.cat-c .card img{object-fit:contain!important;background:#101010}
+.card img,.cat-b .card img,.cat-c .card img{object-fit:cover!important;object-position:center 55%;background:#101010}
