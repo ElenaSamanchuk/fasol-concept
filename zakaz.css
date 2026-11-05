@@ -112,3 +112,4 @@ header nav a{white-space:nowrap}
 .add{min-height:44px;display:flex;align-items:center;justify-content:center;text-align:center}
 }
 .card img,.cat-b .card img,.cat-c .card img{aspect-ratio:4/3!important;object-fit:cover!important;object-position:center!important}
+.card img,.cat-b .card img,.cat-c .card img{aspect-ratio:1/1!important}
