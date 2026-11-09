@@ -1,0 +1,200 @@
+[
+  {
+    "id": "breakfast-01",
+    "title": "Завтраки: обложка",
+    "file": "menus/telegram/photo_2026-10-30_17-20-37.webp",
+    "kind": "breakfast",
+    "page": 1,
+    "source": "client",
+    "source_filename": "photo_2026-10-30_17-20-37.jpg"
+  },
+  {
+    "id": "breakfast-02",
+    "title": "Большие завтраки, брускетты и яичницы",
+    "file": "menus/telegram/photo_2026-10-30_17-20-39.webp",
+    "kind": "breakfast",
+    "page": 2,
+    "source": "client",
+    "source_filename": "photo_2026-10-30_17-20-39.jpg"
+  },
+  {
+    "id": "breakfast-03",
+    "title": "Омлет, каши, сырники, блинчики и десерты",
+    "file": "menus/telegram/photo_2026-10-30_17-20-40.webp",
+    "kind": "breakfast",
+    "page": 3,
+    "source": "client",
+    "source_filename": "photo_2026-10-30_17-20-40.jpg"
+  },
+  {
+    "id": "breakfast-04",
+    "title": "Завтраки: кофе, чай и напитки",
+    "file": "menus/telegram/photo_2026-10-30_17-20-41.webp",
+    "kind": "breakfast",
+    "page": 4,
+    "source": "client",
+    "source_filename": "photo_2026-10-30_17-20-41.jpg"
+  },
+  {
+    "id": "breakfast-05",
+    "title": "Завтраки: пиво, аперитивы и ликёры",
+    "file": "menus/telegram/photo_2026-10-30_17-20-42.webp",
+    "kind": "breakfast",
+    "page": 5,
+    "source": "client",
+    "source_filename": "photo_2026-10-30_17-20-42.jpg"
+  },
+  {
+    "id": "breakfast-06",
+    "title": "Завтраки: белые и игристые вина",
+    "file": "menus/telegram/photo_2026-10-30_17-20-42 (2).webp",
+    "kind": "breakfast",
+    "page": 6,
+    "source": "client",
+    "source_filename": "photo_2026-10-30_17-20-42 (2).jpg"
+  },
+  {
+    "id": "breakfast-07",
+    "title": "Завтраки: красные и розовые вина",
+    "file": "menus/telegram/photo_2026-10-30_17-20-43.webp",
+    "kind": "breakfast",
+    "page": 7,
+    "source": "client",
+    "source_filename": "photo_2026-10-30_17-20-43.jpg"
+  },
+  {
+    "id": "breakfast-08",
+    "title": "Завтраки: крепкие напитки",
+    "file": "menus/telegram/photo_2026-10-30_17-20-44.webp",
+    "kind": "breakfast",
+    "page": 8,
+    "source": "client",
+    "source_filename": "photo_2026-10-30_17-20-44.jpg"
+  },
+  {
+    "id": "main-01",
+    "title": "Основное меню: обложка",
+    "file": "menus/telegram/photo_2026-10-30_17-20-44 (2).webp",
+    "kind": "main",
+    "page": 1,
+    "source": "client",
+    "source_filename": "photo_2026-10-30_17-20-44 (2).jpg"
+  },
+  {
+    "id": "main-02",
+    "title": "Салаты и фирменные супы",
+    "file": "menus/telegram/photo_2026-10-30_17-20-45.webp",
+    "kind": "main",
+    "page": 2,
+    "source": "client",
+    "source_filename": "photo_2026-10-30_17-20-45.jpg"
+  },
+  {
+    "id": "main-03",
+    "title": "Карпаччо, тартар и закуски",
+    "file": "menus/telegram/photo_2026-10-30_17-20-46.webp",
+    "kind": "main",
+    "page": 3,
+    "source": "client",
+    "source_filename": "photo_2026-10-30_17-20-46.jpg"
+  },
+  {
+    "id": "main-04",
+    "title": "Горячие закуски и хоспер-гриль",
+    "file": "menus/telegram/photo_2026-10-30_17-20-47.webp",
+    "kind": "main",
+    "page": 4,
+    "source": "client",
+    "source_filename": "photo_2026-10-30_17-20-47.jpg"
+  },
+  {
+    "id": "main-05",
+    "title": "Горячие блюда",
+    "file": "menus/telegram/photo_2026-10-30_17-20-48 (2).webp",
+    "kind": "main",
+    "page": 5,
+    "source": "client",
+    "source_filename": "photo_2026-10-30_17-20-48 (2).jpg"
+  },
+  {
+    "id": "main-06",
+    "title": "Хоспер-гриль",
+    "file": "menus/telegram/photo_2026-10-30_17-20-48.webp",
+    "kind": "main",
+    "page": 6,
+    "source": "client",
+    "source_filename": "photo_2026-10-30_17-20-48.jpg"
+  },
+  {
+    "id": "main-07",
+    "title": "Пасты",
+    "file": "menus/telegram/photo_2026-10-30_17-20-49.webp",
+    "kind": "main",
+    "page": 7,
+    "source": "client",
+    "source_filename": "photo_2026-10-30_17-20-49.jpg"
+  },
+  {
+    "id": "main-08",
+    "title": "Десерты и напитки",
+    "file": "menus/telegram/photo_2026-10-30_17-20-50.webp",
+    "kind": "main",
+    "page": 8,
+    "source": "client",
+    "source_filename": "photo_2026-10-30_17-20-50.jpg"
+  },
+  {
+    "id": "main-09",
+    "title": "Пиво, аперитивы и ликёры",
+    "file": "menus/telegram/photo_2026-10-30_17-20-50 (2).webp",
+    "kind": "main",
+    "page": 9,
+    "source": "client",
+    "source_filename": "photo_2026-10-30_17-20-50 (2).jpg"
+  },
+  {
+    "id": "main-10",
+    "title": "Белые и игристые вина",
+    "file": "menus/telegram/photo_2026-10-30_17-20-51.webp",
+    "kind": "main",
+    "page": 10,
+    "source": "client",
+    "source_filename": "photo_2026-10-30_17-20-51.jpg"
+  },
+  {
+    "id": "main-11",
+    "title": "Красные и розовые вина",
+    "file": "menus/telegram/photo_2026-10-30_17-20-52.webp",
+    "kind": "main",
+    "page": 11,
+    "source": "client",
+    "source_filename": "photo_2026-10-30_17-20-52.jpg"
+  },
+  {
+    "id": "main-12",
+    "title": "Крепкие напитки",
+    "file": "menus/telegram/photo_2026-10-30_17-20-53.webp",
+    "kind": "main",
+    "page": 12,
+    "source": "client",
+    "source_filename": "photo_2026-10-30_17-20-53.jpg"
+  },
+  {
+    "id": "lunch-01",
+    "title": "Домашние обеды",
+    "file": "menus/telegram/photo_2026-10-30_17-20-53 (2).webp",
+    "kind": "lunch",
+    "page": 1,
+    "source": "client",
+    "source_filename": "photo_2026-10-30_17-20-53 (2).jpg"
+  },
+  {
+    "id": "kids-01",
+    "title": "Детское меню",
+    "file": "menus/telegram/photo_2026-10-30_17-20-54.webp",
+    "kind": "kids",
+    "page": 1,
+    "source": "client",
+    "source_filename": "photo_2026-10-30_17-20-54.jpg"
+  }
+]

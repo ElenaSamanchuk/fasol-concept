@@ -1,0 +1,52 @@
+{
+  "captured_at": "2026-10-30",
+  "source": "https://fasol.orionhall.by/api/site/config",
+  "status": "success",
+  "site": {
+    "site_title": "Ресторан \"ФаCоль\"",
+    "meta_title": "Ресторан \"ФаCоль\"",
+    "meta_description": "Ресторан \"ФаСоль\" в Гомеле — уютная атмосфера, изысканные блюда и быстрая доставка. Ждем вас на ул. Крестьянская, 16",
+    "venue_name": "ФаCоль",
+    "venue_phone": "+375447903333",
+    "venue_address": "г. Гомель, ул. Советская, 36",
+    "venue_city": "Гомель",
+    "working_hours": "1,2,3,4,5 | 09:00 | 23:00\r\n0,6 | 10:00 | 23:00",
+    "working_hours_rules": [
+      {
+        "days_of_week": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "time_from": "09:00",
+        "time_to": "23:00"
+      },
+      {
+        "days_of_week": [
+          0,
+          6
+        ],
+        "time_from": "10:00",
+        "time_to": "23:00"
+      }
+    ],
+    "primary_color": "#ae163d",
+    "banners": [
+      {
+        "id": 3,
+        "image_url": "img/admin-banner-1.webp",
+        "title": "Скидка 20% на основное меню",
+        "subtitle": null,
+        "sort_order": 1
+      }
+    ],
+    "legal_entity": {
+      "legal_org_full_name": "Общество с ограниченной ответственностью \"Орион Холл\"",
+      "legal_unp": "490858051",
+      "legal_jurisdiction_address": "Республика Беларусь, Гомельская область, г. Гомель, ул. Крестьянская, дом 16",
+      "legal_contact_email": "orionholl@yandex.by"
+    }
+  }
+}
