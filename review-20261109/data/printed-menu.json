@@ -1,143 +1,275 @@
 {
-  "source": "Печатные меню ресторана, предоставленные Еленой 30.10.2026",
-  "currency": "BYN",
-  "editable": "Позиции и цены изменяются в groups; интеграция с админкой требует backend-сопоставления",
+ "source": "Печатные меню ресторана, предоставленные Еленой 30.10.2026",
+ "currency": "BYN",
+ "editable": "Позиции и цены изменяются в groups; интеграция с админкой требует backend-сопоставления",
+ "groups": {
+  "Кофе": [
+   [
+    "Эспрессо",
+    "4.50"
+   ],
+   [
+    "Американо",
+    "5.90"
+   ],
+   [
+    "Капучино · обычное / кокосовое молоко",
+    "6.50 / 8.50"
+   ],
+   [
+    "Латте · обычное / кокосовое молоко",
+    "6.50 / 9.50"
+   ],
+   [
+    "Ice latte caramel · обычное / кокосовое молоко",
+    "6.50 / 6.90"
+   ],
+   [
+    "Flat White · обычное / кокосовое молоко",
+    "7.90 / 10.50"
+   ],
+   [
+    "Bumble Coffee",
+    "7.90"
+   ],
+   [
+    "Раф",
+    "13.50"
+   ]
+  ],
+  "Чай": [
+   [
+    "Чёрный: Английский завтрак / Эрл Грей",
+    "3.50"
+   ],
+   [
+    "Зелёный Порох",
+    "3.50"
+   ],
+   [
+    "Фруктовый Красный дракон",
+    "3.50"
+   ],
+   [
+    "Травяной",
+    "3.50"
+   ],
+   [
+    "Молочный Улун",
+    "3.50"
+   ],
+   [
+    "Гречишный",
+    "3.50"
+   ]
+  ],
+  "Напитки": [
+   [
+    "Кока-Кола / Кока-Кола Zero / Фанта / Спрайт · 0,33 л",
+    "3.60"
+   ],
+   [
+    "Швепс · 0,33 л",
+    "4.10"
+   ],
+   [
+    "Burn · 0,25 л",
+    "8.10"
+   ],
+   [
+    "Боржоми · 0,5 л",
+    "10.00"
+   ],
+   [
+    "Tassay · 0,33 л",
+    "5.00"
+   ],
+   [
+    "Bonaqua · 0,5 л",
+    "2.90"
+   ],
+   [
+    "Соки Rich · 250 мл",
+    "2.40"
+   ],
+   [
+    "Свежевыжатый яблочный · 200 мл",
+    "6.50"
+   ],
+   [
+    "Яблочно-морковный · 200 мл",
+    "5.90"
+   ],
+   [
+    "Яблочно-сельдереевый · 200 мл",
+    "10.00"
+   ],
+   [
+    "Морковный · 200 мл",
+    "5.50"
+   ],
+   [
+    "Сельдереевый · 200 мл",
+    "30.00"
+   ],
+   [
+    "Морковно-сельдереевый · 200 мл",
+    "10.00"
+   ],
+   [
+    "Апельсиновый · 200 мл",
+    "8.50"
+   ],
+   [
+    "Грейпфрутовый · 200 мл",
+    "11.00"
+   ],
+   [
+    "Ап-грей · 200 мл",
+    "9.00"
+   ]
+  ],
+  "Детское меню": [
+   [
+    "Сосиска 60 г или котлетка 40 г с гарниром на выбор: спагетти, пюре или картофель фри 100 г",
+    "7.30"
+   ],
+   [
+    "Сырники 135 г с джемом и сметаной",
+    "5.30"
+   ]
+  ]
+ },
+ "bar": {
+  "note": "Барная карта для ознакомления, без цен (решение заказчика от 13 ноября 2026). Цены уточняются у официанта. Источник: work/alcohol-archive-20261110/printed-menu-full.json, поля цен вырезаны",
   "groups": {
-    "Кофе": [
-      [
-        "Эспрессо",
-        "4.50"
-      ],
-      [
-        "Американо",
-        "5.90"
-      ],
-      [
-        "Капучино · обычное / кокосовое молоко",
-        "6.50 / 8.50"
-      ],
-      [
-        "Латте · обычное / кокосовое молоко",
-        "6.50 / 9.50"
-      ],
-      [
-        "Ice latte caramel · обычное / кокосовое молоко",
-        "6.50 / 6.90"
-      ],
-      [
-        "Flat White · обычное / кокосовое молоко",
-        "7.90 / 10.50"
-      ],
-      [
-        "Bumble Coffee",
-        "7.90"
-      ],
-      [
-        "Раф",
-        "13.50"
-      ]
-    ],
-    "Чай": [
-      [
-        "Чёрный: Английский завтрак / Эрл Грей",
-        "3.50"
-      ],
-      [
-        "Зелёный Порох",
-        "3.50"
-      ],
-      [
-        "Фруктовый Красный дракон",
-        "3.50"
-      ],
-      [
-        "Травяной",
-        "3.50"
-      ],
-      [
-        "Молочный Улун",
-        "3.50"
-      ],
-      [
-        "Гречишный",
-        "3.50"
-      ]
-    ],
-    "Напитки": [
-      [
-        "Кока-Кола / Кока-Кола Zero / Фанта / Спрайт · 0,33 л",
-        "3.60"
-      ],
-      [
-        "Швепс · 0,33 л",
-        "4.10"
-      ],
-      [
-        "Burn · 0,25 л",
-        "8.10"
-      ],
-      [
-        "Боржоми · 0,5 л",
-        "10.00"
-      ],
-      [
-        "Tassay · 0,33 л",
-        "5.00"
-      ],
-      [
-        "Bonaqua · 0,5 л",
-        "2.90"
-      ],
-      [
-        "Соки Rich · 250 мл",
-        "2.40"
-      ],
-      [
-        "Свежевыжатый яблочный · 200 мл",
-        "6.50"
-      ],
-      [
-        "Яблочно-морковный · 200 мл",
-        "5.90"
-      ],
-      [
-        "Яблочно-сельдереевый · 200 мл",
-        "10.00"
-      ],
-      [
-        "Морковный · 200 мл",
-        "5.50"
-      ],
-      [
-        "Сельдереевый · 200 мл",
-        "30.00"
-      ],
-      [
-        "Морковно-сельдереевый · 200 мл",
-        "10.00"
-      ],
-      [
-        "Апельсиновый · 200 мл",
-        "8.50"
-      ],
-      [
-        "Грейпфрутовый · 200 мл",
-        "11.00"
-      ],
-      [
-        "Ап-грей · 200 мл",
-        "9.00"
-      ]
-    ],
-    "Детское меню": [
-      [
-        "Сосиска 60 г или котлетка 40 г с гарниром на выбор: спагетти, пюре или картофель фри 100 г",
-        "7.30"
-      ],
-      [
-        "Сырники 135 г с джемом и сметаной",
-        "5.30"
-      ]
-    ]
+   "Шампанское и игристые вина": [
+    "Moët & Chandon Imperial Brut · 750 мл",
+    "Louis Vallon Crémant de Bordeaux BdB · 750 мл",
+    "Prosecco Valdobbiadene Superiore Rive di Santo Stefano · 750 мл",
+    "Codorniu Zero Alkohol Free · 150 / 750 мл",
+    "Ca’di Rajo Mito Extra Dry · 150 / 750 мл",
+    "Get Lost Sparkling Orange · 150 / 750 мл",
+    "Medici Ermete Lambrusco Rosso IGT · 750 мл",
+    "Medici Ermete Lambrusco Bianco IGT · 750 мл",
+    "Советское Шампанское, полусухое / брют · 750 мл"
+   ],
+   "Белые вина": [
+    "Famille Gueguen Chablis · 750 мл",
+    "B de Bastor Lamontagne Bordeaux · 750 мл",
+    "Arthur Metz Gewürztraminer · 750 мл",
+    "Kia Ora Sauvignon Blanc · 750 мл",
+    "Tolloy Weissburgunder Pinot Bianco · 750 мл",
+    "Feudo Arancio Dalila Riserva DOC · 750 мл",
+    "Pinot Grigio Delle Venezie Ca’di Rajo DOC · 150 / 750 мл",
+    "Deinhard Green Label Riesling Dry · 150 / 750 мл",
+    "Domodo Amabile Bianco · 150 / 750 мл",
+    "Balance Classic Selection Chenin Blanc · 150 / 750 мл",
+    "Mare Alta Vinho Verde DOC · 150 / 750 мл",
+    "Askaneli Alazani Valley · 150 / 750 мл"
+   ],
+   "Розовые вина": [
+    "Calvet Rosé d’Anjou AOC · 750 мл",
+    "Feudo Arancio Tinchite Rose · 150 / 750 мл"
+   ],
+   "Красные вина": [
+    "Joseph Faiveley Bourgogne Pinot Noir AOC · 750 мл",
+    "Fertuna Pactio Toscana Rosso IGT · 750 мл",
+    "Toso Marne Forti Langhe Nebbiolo · 750 мл",
+    "Tolloy Pinot Nero Blauburgunder · 750 мл",
+    "Errazuriz Estate Carmenere · 750 мл",
+    "Reschke R-Series Shiraz Limestone Coast · 750 мл",
+    "Umani Ronchi Podere Montepulciano d’Abruzzo · 150 / 750 мл",
+    "Antigal Aqui Malbec · 150 / 750 мл",
+    "J.P. Chenet Medium Sweet Rouge Pays d’Oc IGP · 150 / 750 мл",
+    "Celebrities Cabernet Sauvignon · 150 / 750 мл",
+    "St. Giorgio Sangiovese Puglia IGT · 150 / 750 мл"
+   ],
+   "Пиво": [
+    "Богемский Пильзнер · 0,3 / 0,5 л",
+    "Баварское · 0,3 / 0,5 л",
+    "Weissbier · 0,3 / 0,5 л",
+    "Балтика 0 · 0,5 л"
+   ],
+   "Аперитивы и биттеры · 50 мл": [
+    "Martini Bianco",
+    "Carpano Classico",
+    "Martini Extra Dry",
+    "Martini Fiero",
+    "Campari",
+    "Lillet",
+    "Suze"
+   ],
+   "Крепкие напитки · 50 мл": [
+    "Cachaça 51",
+    "Pernod Absinthe",
+    "Cockburn’s Fine Tawny Port",
+    "Olmeca Altos Reposado",
+    "Rooster Rojo Blanco",
+    "Olmeca Blanco",
+    "Matusalem Solera, 7 лет",
+    "Captain Morgan Spiced",
+    "Havana Club Anejo 3 Anos",
+    "Bombay Sapphire",
+    "Tanqueray London Dry",
+    "Martell XO",
+    "Hardy VSOP",
+    "Martell VS",
+    "Godet Classique VS",
+    "Арарат Априкот",
+    "Torres, 10 лет",
+    "Айк, 7 лет",
+    "Араспел, 5*",
+    "Château du Breuil 12 Ans d’Age",
+    "Macallan, 12 лет",
+    "Laphroaig, 10 лет",
+    "Glenmorangie, 10 лет",
+    "Aberlour, 12 лет",
+    "Jack Daniels",
+    "Tullamore D.E.W.",
+    "Grant’s Triple Wood",
+    "Jeam Beam",
+    "Grey Goose",
+    "Finlandia",
+    "Бульбашъ №1",
+    "Бульбашъ Клюквенная",
+    "Бульбашъ Особая"
+   ],
+   "Крепкие напитки · бутылка": [
+    "Martell XO · 0,7 л",
+    "Hardy VSOP · 0,7 л",
+    "Martell VS · 1 л",
+    "Godet Classique VS · 0,7 л",
+    "Арарат Априкот · 0,5 л",
+    "Torres, 10 лет · 0,7 л",
+    "Айк, 7 лет · 0,5 л",
+    "Араспел, 5* · 0,5 л",
+    "Château du Breuil 12 Ans d’Age · 0,7 л",
+    "Macallan, 12 лет · 0,7 л",
+    "Laphroaig, 10 лет · 0,7 л",
+    "Glenmorangie, 10 лет · 0,7 л",
+    "Aberlour, 12 лет · 0,7 л",
+    "Jack Daniels · 1 л",
+    "Tullamore D.E.W. · 1 л",
+    "Grant’s Triple Wood · 1 л",
+    "Jeam Beam · 1 л",
+    "Grey Goose · 1 л",
+    "Finlandia · 1 л",
+    "Бульбашъ №1 · 0,5 л",
+    "Бульбашъ Клюквенная · 0,5 л",
+    "Бульбашъ Особая · 0,5 л"
+   ],
+   "Дижестивы и ликёры · 50 мл": [
+    "Becherovka",
+    "Jagermeister",
+    "Amaretto",
+    "Sambuca",
+    "Averna Amaro",
+    "Aperol"
+   ],
+   "Кофе с алкоголем": [
+    "Ирландский"
+   ]
   }
+ }
 }
