@@ -1,0 +1,82 @@
+[
+ {
+  "file": "bar-counter-4120.webp",
+  "mobile": "m/bar-counter-4120.webp",
+  "source": "bar-IMG_4120.jpg",
+  "alt": "Барная стойка ресторана «ФаСоль» вдоль зала",
+  "width": 2200,
+  "height": 1238
+ },
+ {
+  "file": "bar-counter-4115.webp",
+  "mobile": "m/bar-counter-4115.webp",
+  "source": "bar-IMG_4115.jpg",
+  "alt": "Барная стойка с высокими стульями и полками",
+  "width": 1238,
+  "height": 2200
+ },
+ {
+  "file": "bar-counter-4121.webp",
+  "mobile": "m/bar-counter-4121.webp",
+  "source": "bar-IMG_4121.jpg",
+  "alt": "Барная стойка и зал с кирпичными колоннами",
+  "width": 1238,
+  "height": 2200
+ },
+ {
+  "file": "cocktails-1.webp",
+  "mobile": "m/cocktails-1.webp",
+  "source": "cocktail-IMG_3486.jpg + cocktail-IMG_3488.jpg",
+  "alt": "Голубой коктейль в мартинке и розовый коктейль в купе",
+  "width": 2200,
+  "height": 1934
+ },
+ {
+  "file": "cocktails-2.webp",
+  "mobile": "m/cocktails-2.webp",
+  "source": "cocktail-IMG_3492.jpg + cocktail-IMG_3494.jpg",
+  "alt": "Два коктейля бара «ФаСоль»",
+  "width": 2200,
+  "height": 1919
+ },
+ {
+  "file": "cocktails-3.webp",
+  "mobile": "m/cocktails-3.webp",
+  "source": "cocktail-IMG_3487.jpg + cocktail-IMG_3493.jpg",
+  "alt": "Оранжевый коктейль с золотыми хлопьями и коктейль бара",
+  "width": 2200,
+  "height": 1854
+ },
+ {
+  "file": "cocktails-4.webp",
+  "mobile": "m/cocktails-4.webp",
+  "source": "cocktail-IMG_3495.jpg + cocktail-IMG_3490.jpg",
+  "alt": "Два коктейля бара «ФаСоль»",
+  "width": 2200,
+  "height": 1606
+ },
+ {
+  "file": "menu-main.webp",
+  "mobile": "m/menu-main.webp",
+  "source": "menu-1-osnovnoe.jpg",
+  "alt": "Основное меню: медальон на хумусе с картофелем гриль",
+  "width": 1280,
+  "height": 1280
+ },
+ {
+  "file": "menu-lunch.webp",
+  "mobile": "m/menu-lunch.webp",
+  "source": "menu-2-obedy.jpg",
+  "alt": "Домашний обед: котлета с брокколи, пюре и салат",
+  "width": 1133,
+  "height": 1280
+ },
+ {
+  "file": "menu-breakfast.webp",
+  "mobile": "m/menu-breakfast.webp",
+  "source": "menu-3-zavtraki.jpg",
+  "alt": "Завтрак: яичница на мясе с хлебом и маслом",
+  "width": 1155,
+  "height": 1280
+ }
+]
