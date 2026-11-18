@@ -14,7 +14,14 @@
       "description": "Классический французский крем-суп из картофеля, лука-порея с песто из петрушки и пшеничными крутонами.\nВес - 265 гр.",
       "root": 5139,
       "category": "ФИРМЕННЫЕ СУПЫ",
-      "categoryCode": 5222
+      "categoryCode": 5222,
+      "nutrition": {
+        "calories": "118",
+        "protein": "2",
+        "fat": "10",
+        "carbohydrate": "4",
+        "weight": null
+      }
     },
     {
       "id": 717,
@@ -25,7 +32,14 @@
       "description": "Классический французский крем-суп из картофеля, лука-порея с песто из петрушки и пшеничными крутонами.\nВес - 320 гр.",
       "root": 5139,
       "category": "ФИРМЕННЫЕ СУПЫ",
-      "categoryCode": 5222
+      "categoryCode": 5222,
+      "nutrition": {
+        "calories": "125",
+        "protein": "4",
+        "fat": "10",
+        "carbohydrate": "4",
+        "weight": null
+      }
     },
     {
       "id": 718,
@@ -36,7 +50,14 @@
       "description": "С говядиной, жареным балыком, картофелем и зеленью. \nВес - 330 гр.",
       "root": 5139,
       "category": "ФИРМЕННЫЕ СУПЫ",
-      "categoryCode": 5222
+      "categoryCode": 5222,
+      "nutrition": {
+        "calories": "86",
+        "protein": "4",
+        "fat": "5",
+        "carbohydrate": "5",
+        "weight": null
+      }
     },
     {
       "id": 1706,
@@ -47,7 +68,14 @@
       "description": "Традиционный салат из свежих овощей, маслин, сыра Фетаки с заправкой из оливкового масла и винного уксуса.",
       "root": 5139,
       "category": "САЛАТЫ И ЗАКУСКИ",
-      "categoryCode": 5198
+      "categoryCode": 5198,
+      "nutrition": {
+        "calories": "210",
+        "protein": "3",
+        "fat": "18",
+        "carbohydrate": "7",
+        "weight": "310"
+      }
     },
     {
       "id": 1309,
@@ -58,7 +86,14 @@
       "description": "Жареные в хрустящей панировке кольца кальмара и кубики моцареллы, подаются с соусом тартар и сладким чили.\nВес - 215гр",
       "root": 5139,
       "category": "САЛАТЫ И ЗАКУСКИ",
-      "categoryCode": 5198
+      "categoryCode": 5198,
+      "nutrition": {
+        "calories": "276",
+        "protein": "8",
+        "fat": "25",
+        "carbohydrate": "7",
+        "weight": null
+      }
     },
     {
       "id": 1707,
@@ -69,7 +104,14 @@
       "description": "Ассорти из благородных сыров Радамер, Дор-блю, Пармезан и сыр горячего копчения с жареными тыквенными семечками, сухофруктами\nи цветочным мёдом.\nВес - 290 гр.",
       "root": 5139,
       "category": "САЛАТЫ И ЗАКУСКИ",
-      "categoryCode": 5198
+      "categoryCode": 5198,
+      "nutrition": {
+        "calories": "337",
+        "protein": "16",
+        "fat": "20",
+        "carbohydrate": "22",
+        "weight": null
+      }
     },
     {
       "id": 683,
@@ -80,7 +122,14 @@
       "description": "Благородный мягкий сливочный сыр, запечённый в дровяной печи, подаётся с хрустящими гренками, финиками, инжиром, курагой, руколой и грецкими орехами в медово-оливковом соусе.",
       "root": 5139,
       "category": "САЛАТЫ И ЗАКУСКИ",
-      "categoryCode": 5198
+      "categoryCode": 5198,
+      "nutrition": {
+        "calories": "255",
+        "protein": "8",
+        "fat": "15",
+        "carbohydrate": "20",
+        "weight": "290г"
+      }
     },
     {
       "id": 1311,
@@ -91,7 +140,14 @@
       "description": "Тонко нарезанная свежая говядина.\nподаётся с руколой, лимоном, тёртым пармезаном и соусом  из сливок \nдижонской горчицы и табаско. \nВес - 130 гр.",
       "root": 5139,
       "category": "САЛАТЫ И ЗАКУСКИ",
-      "categoryCode": 5198
+      "categoryCode": 5198,
+      "nutrition": {
+        "calories": "157",
+        "protein": "9",
+        "fat": "11",
+        "carbohydrate": "2",
+        "weight": null
+      }
     },
     {
       "id": 1312,
@@ -102,7 +158,14 @@
       "description": "Тонко нарезанное филе свежего лосося с базиликовым песто, руколой \nи маринованными каперсами. \nВес - 160 гр.",
       "root": 5139,
       "category": "САЛАТЫ И ЗАКУСКИ",
-      "categoryCode": 5198
+      "categoryCode": 5198,
+      "nutrition": {
+        "calories": "133",
+        "protein": "10",
+        "fat": "8",
+        "carbohydrate": "2",
+        "weight": null
+      }
     },
     {
       "id": 688,
@@ -113,7 +176,14 @@
       "description": "Жареные ломтики куриного филе в хрустящей панировке. Подаются со сладким чили соусом.",
       "root": 5139,
       "category": "САЛАТЫ И ЗАКУСКИ",
-      "categoryCode": 5198
+      "categoryCode": 5198,
+      "nutrition": {
+        "calories": "213",
+        "protein": "10",
+        "fat": "11",
+        "carbohydrate": "16",
+        "weight": "250"
+      }
     },
     {
       "id": 1708,
@@ -124,7 +194,14 @@
       "description": "Вяленый балык, копчёные салями и бекон, бастурма, маринованные \nкорнишоны и перец пири-пири. Подаются на доске с горчицей, хреном, оливками\nи свежим сельдереем.",
       "root": 5139,
       "category": "САЛАТЫ И ЗАКУСКИ",
-      "categoryCode": 5198
+      "categoryCode": 5198,
+      "nutrition": {
+        "calories": "331",
+        "protein": "9",
+        "fat": "26",
+        "carbohydrate": "1",
+        "weight": "290"
+      }
     },
     {
       "id": 1709,
@@ -135,7 +212,14 @@
       "description": "Ломтики обжаренной говядины, листья салата Ромен, красная фасоль, оливки,\nжареные кедровые орешки, заправка на основе дижонской горчицы, домашнего майонеза и табаско. \nВес - 280гр.",
       "root": 5139,
       "category": "САЛАТЫ И ЗАКУСКИ",
-      "categoryCode": 5198
+      "categoryCode": 5198,
+      "nutrition": {
+        "calories": "197",
+        "protein": "7",
+        "fat": "11",
+        "carbohydrate": "10",
+        "weight": null
+      }
     },
     {
       "id": 1867,
@@ -146,7 +230,14 @@
       "description": "Обжаренное на углях куриное филе, копчёный бекон, свежие томаты черри и хрустящие листья салатов Ромен и Айсберг с пикантной заправкой из майонеза, каперсов и корнишонов. \nВес - 230 гр.",
       "root": 5139,
       "category": "САЛАТЫ И ЗАКУСКИ",
-      "categoryCode": 5198
+      "categoryCode": 5198,
+      "nutrition": {
+        "calories": "299",
+        "protein": "8",
+        "fat": "28",
+        "carbohydrate": "2",
+        "weight": null
+      }
     },
     {
       "id": 696,
@@ -157,7 +248,14 @@
       "description": "Листья салата Ромен с жареным на углях куриным филе, сладким перцем,\nсвежим огурцом, яичной лапшой, заправкой, на основе оливкового масла, винного уксуса и сладкого чили соуса.",
       "root": 5139,
       "category": "САЛАТЫ И ЗАКУСКИ",
-      "categoryCode": 5198
+      "categoryCode": 5198,
+      "nutrition": {
+        "calories": "204",
+        "protein": "7",
+        "fat": "10",
+        "carbohydrate": "18",
+        "weight": "280"
+      }
     },
     {
       "id": 1314,
@@ -168,7 +266,14 @@
       "description": "Кольца жареного кальмара в хрустящей панировке с листьями салатов Айсберг и Ромен, руколой, сладким перцем, огурцом, оливками, персиком и виноградом, грецким орехом, жареными тыквенными семечками и лёгкой медово-оливковой заправкой.\nВес - 300гр",
       "root": 5139,
       "category": "САЛАТЫ И ЗАКУСКИ",
-      "categoryCode": 5198
+      "categoryCode": 5198,
+      "nutrition": {
+        "calories": "59",
+        "protein": "2",
+        "fat": "13",
+        "carbohydrate": "6",
+        "weight": null
+      }
     },
     {
       "id": 1710,
@@ -179,7 +284,14 @@
       "description": "Листья салатов Ромен, Айсберг и рукола, свежие томаты, огурец и шампиньоны с лёгкой медово-оливковой заправкой, оливками, жареными тыквенными семечками и пармезаом.\nВес - 290гр",
       "root": 5139,
       "category": "САЛАТЫ И ЗАКУСКИ",
-      "categoryCode": 5198
+      "categoryCode": 5198,
+      "nutrition": {
+        "calories": "146",
+        "protein": "2",
+        "fat": "11",
+        "carbohydrate": "8",
+        "weight": null
+      }
     },
     {
       "id": 1711,
@@ -190,7 +302,14 @@
       "description": "Кубики жареной моцареллы в хрустящей панировке с листьями салатов Айсберг и Ромен, руколой, сладким перцем, огурцом, оливками, персиком и виноградом, грецким орехом, жареными тыквенными семечками и лёгкой медово-оливковой заправкой.\nВес - 300гр",
       "root": 5139,
       "category": "САЛАТЫ И ЗАКУСКИ",
-      "categoryCode": 5198
+      "categoryCode": 5198,
+      "nutrition": {
+        "calories": "176",
+        "protein": "5",
+        "fat": "15",
+        "carbohydrate": "6",
+        "weight": null
+      }
     },
     {
       "id": 1712,
@@ -201,7 +320,14 @@
       "description": "Листья салата Ромен, жареное на углях куриное филе, авокадо,\nанчоусы, густая сливочная заправка, тёртый пармезан, хрустящие \nпшеничные кростини.  \nВес - 220 гр.",
       "root": 5139,
       "category": "САЛАТЫ И ЗАКУСКИ",
-      "categoryCode": 5198
+      "categoryCode": 5198,
+      "nutrition": {
+        "calories": "222",
+        "protein": "8",
+        "fat": "19",
+        "carbohydrate": "4",
+        "weight": null
+      }
     },
     {
       "id": 1713,
@@ -212,7 +338,14 @@
       "description": "Хрустящие листья салатов Айсберг и Ромен, пармезан, томаты, крутоны из французского багета с густой сырной заправкой.\nВес - 300гр",
       "root": 5139,
       "category": "САЛАТЫ И ЗАКУСКИ",
-      "categoryCode": 5198
+      "categoryCode": 5198,
+      "nutrition": {
+        "calories": "177",
+        "protein": "2",
+        "fat": "16",
+        "carbohydrate": "2",
+        "weight": null
+      }
     },
     {
       "id": 705,
@@ -223,7 +356,14 @@
       "description": "Хрустящие листья салатов Айсберг и Ромен , пармезан, томаты, крутоны из французского  багета с густой \nсырной заправкой.",
       "root": 5139,
       "category": "САЛАТЫ И ЗАКУСКИ",
-      "categoryCode": 5198
+      "categoryCode": 5198,
+      "nutrition": {
+        "calories": "195",
+        "protein": "8",
+        "fat": "16",
+        "carbohydrate": "3",
+        "weight": "300"
+      }
     },
     {
       "id": 1714,
@@ -234,7 +374,14 @@
       "description": "Хрустящие листья салатов Айсберг и Ромен , пармезан, томаты, крутоны из французского  багета с густой \nсырной заправкой.  \nВес - 300 гр.",
       "root": 5139,
       "category": "САЛАТЫ И ЗАКУСКИ",
-      "categoryCode": 5198
+      "categoryCode": 5198,
+      "nutrition": {
+        "calories": "263",
+        "protein": "6",
+        "fat": "22",
+        "carbohydrate": "7",
+        "weight": null
+      }
     },
     {
       "id": 1715,
@@ -245,7 +392,14 @@
       "description": "Закуска из филе сельди, корнишонов, яблок и свежего лука в сметанном \nсоусе с пряностями. Подается с жареными картофельными дольками,\nтоматно-перечным конкассе и песто из петрушки.",
       "root": 5139,
       "category": "САЛАТЫ И ЗАКУСКИ",
-      "categoryCode": 5198
+      "categoryCode": 5198,
+      "nutrition": {
+        "calories": "223",
+        "protein": "3",
+        "fat": "20",
+        "carbohydrate": "5",
+        "weight": "430"
+      }
     },
     {
       "id": 1322,
@@ -256,7 +410,14 @@
       "description": "Рубленое филе свежего лосося, заправленное соком лимона,\nоливковым маслом и свежемолотым перцем. Подаётся на салате Ромен с томатной-перечным конкассе и базиликовым песто. \nВес - 170 гр.",
       "root": 5139,
       "category": "САЛАТЫ И ЗАКУСКИ",
-      "categoryCode": 5198
+      "categoryCode": 5198,
+      "nutrition": {
+        "calories": "176",
+        "protein": "8",
+        "fat": "13",
+        "carbohydrate": "3",
+        "weight": null
+      }
     },
     {
       "id": 1323,
@@ -267,7 +428,14 @@
       "description": "Рубленое филе говяжий вырезки, заправленное вустерским соусом и табаско. Подаётся на руколе с тапенадом из каперсов, оливок, свежемолотого чёрного перца и оливкового масла. \nВес - 245 гр.",
       "root": 5139,
       "category": "САЛАТЫ И ЗАКУСКИ",
-      "categoryCode": 5198
+      "categoryCode": 5198,
+      "nutrition": {
+        "calories": "181",
+        "protein": "11",
+        "fat": "12",
+        "carbohydrate": "4",
+        "weight": null
+      }
     },
     {
       "id": 1321,
@@ -278,7 +446,14 @@
       "description": "Крылышки Буффало, куриные нагетсы, картофельные дольки и сырные шарики. Подаются с соусом Блю чиз, сладким чили и острой сальсой. \nВес - 570 гр.",
       "root": 5139,
       "category": "САЛАТЫ И ЗАКУСКИ",
-      "categoryCode": 5198
+      "categoryCode": 5198,
+      "nutrition": {
+        "calories": "174",
+        "protein": "9",
+        "fat": "11",
+        "carbohydrate": "4",
+        "weight": null
+      }
     },
     {
       "id": 713,
@@ -289,7 +464,14 @@
       "description": "Форшмак по специальному рецепту из мелкорубленной сельди, сливочного сыра, моркови и петрушки. Подаётся со слегка обжаренным итальянским хлебом Чиабатта.",
       "root": 5139,
       "category": "САЛАТЫ И ЗАКУСКИ",
-      "categoryCode": 5198
+      "categoryCode": 5198,
+      "nutrition": {
+        "calories": "184",
+        "protein": "5",
+        "fat": "13",
+        "carbohydrate": "13",
+        "weight": "240"
+      }
     },
     {
       "id": 1716,
@@ -300,7 +482,14 @@
       "description": "Традиционная закуска из отварного нута с кунжутной пастой, оливками Каламата, маринованным перцем и гренками из белого хлеба.",
       "root": 5139,
       "category": "САЛАТЫ И ЗАКУСКИ",
-      "categoryCode": 5198
+      "categoryCode": 5198,
+      "nutrition": {
+        "calories": "151",
+        "protein": "3",
+        "fat": "11",
+        "carbohydrate": "5",
+        "weight": "225"
+      }
     },
     {
       "id": 1324,
@@ -311,7 +500,14 @@
       "description": "Традиционная закуска из отварного нута с кунжутной пастой, оливками Каламата, маринованным перцем и гренками из белого хлеба.\nВес - 255 гр.",
       "root": 5139,
       "category": "САЛАТЫ И ЗАКУСКИ",
-      "categoryCode": 5198
+      "categoryCode": 5198,
+      "nutrition": {
+        "calories": "133",
+        "protein": "4",
+        "fat": "9",
+        "carbohydrate": "4",
+        "weight": null
+      }
     },
     {
       "id": 1864,
@@ -322,7 +518,14 @@
       "description": "Обжаренные во фритюре рисовые шарики с начинкой из сыра, яиц и зелени. Подаются в мясном соусе болоньезе с пармезаном.",
       "root": 5139,
       "category": "САЛАТЫ И ЗАКУСКИ",
-      "categoryCode": 5198
+      "categoryCode": 5198,
+      "nutrition": {
+        "calories": "125",
+        "protein": "6",
+        "fat": "9",
+        "carbohydrate": "4",
+        "weight": "340"
+      }
     },
     {
       "id": 1865,
@@ -333,7 +536,14 @@
       "description": "Ассорти из жареных сырных шариков с халапеньо, кубиков моцареллы, картофельных лодочек, мини-хашбраунов, картофеля фри и бекона. Подаётся с соусами тартар, сладкий чили и томатной сальсой.",
       "root": 5139,
       "category": "САЛАТЫ И ЗАКУСКИ",
-      "categoryCode": 5198
+      "categoryCode": 5198,
+      "nutrition": {
+        "calories": "300",
+        "protein": "5",
+        "fat": "27",
+        "carbohydrate": "9",
+        "weight": "405"
+      }
     },
     {
       "id": 1866,
@@ -344,7 +554,14 @@
       "description": "Ломтики отварного говяжьего языка с красной фасолью в пряном сливочном соусе с тёртым грецким орехом, салатом Ромен и опятами.",
       "root": 5139,
       "category": "САЛАТЫ И ЗАКУСКИ",
-      "categoryCode": 5198
+      "categoryCode": 5198,
+      "nutrition": {
+        "calories": "158",
+        "protein": "10",
+        "fat": "11",
+        "carbohydrate": "1",
+        "weight": "240"
+      }
     },
     {
       "id": 1685,
@@ -355,7 +572,14 @@
       "description": "Вес - 410г",
       "root": 5139,
       "category": "ГОРЯЧИЕ БЛЮДА",
-      "categoryCode": 5151
+      "categoryCode": 5151,
+      "nutrition": {
+        "calories": "165",
+        "protein": "4",
+        "fat": "11",
+        "carbohydrate": "9",
+        "weight": null
+      }
     },
     {
       "id": 1686,
@@ -366,7 +590,14 @@
       "description": "Обжаренные ломтики говяжьей вырезки с грибами и луком в сметанном соусе. Подаётся с картофельным пюре.",
       "root": 5139,
       "category": "ГОРЯЧИЕ БЛЮДА",
-      "categoryCode": 5151
+      "categoryCode": 5151,
+      "nutrition": {
+        "calories": "172",
+        "protein": "5",
+        "fat": "12",
+        "carbohydrate": "9",
+        "weight": "430"
+      }
     },
     {
       "id": 1687,
@@ -377,7 +608,14 @@
       "description": "Отбивные из рубленного куриного филе, красного перца и петрушки. Подаются с соусом тартар и брокколи с чесночным маслом.",
       "root": 5139,
       "category": "ГОРЯЧИЕ БЛЮДА",
-      "categoryCode": 5151
+      "categoryCode": 5151,
+      "nutrition": {
+        "calories": "207",
+        "protein": "7",
+        "fat": "18",
+        "carbohydrate": "1",
+        "weight": "370"
+      }
     },
     {
       "id": 1688,
@@ -388,7 +626,14 @@
       "description": "Томлёные говяжьи щёчки с мясным соусом Демиглас, грибами и картофельным пюре.",
       "root": 5139,
       "category": "ГОРЯЧИЕ БЛЮДА",
-      "categoryCode": 5151
+      "categoryCode": 5151,
+      "nutrition": {
+        "calories": "94",
+        "protein": "5",
+        "fat": "5",
+        "carbohydrate": "5",
+        "weight": "350"
+      }
     },
     {
       "id": 1289,
@@ -399,7 +644,14 @@
       "description": "Вес - 325г",
       "root": 5139,
       "category": "ГОРЯЧИЕ БЛЮДА",
-      "categoryCode": 5151
+      "categoryCode": 5151,
+      "nutrition": {
+        "calories": "200",
+        "protein": "3",
+        "fat": "13",
+        "carbohydrate": "13",
+        "weight": null
+      }
     },
     {
       "id": 1290,
@@ -410,7 +662,14 @@
       "description": "Сочные котлеты из филе норвежского лосося с ароматным рисом Басмати,\nобжаренной брокколи и соусом тартар.",
       "root": 5139,
       "category": "ГОРЯЧИЕ БЛЮДА",
-      "categoryCode": 5151
+      "categoryCode": 5151,
+      "nutrition": {
+        "calories": "257",
+        "protein": "7",
+        "fat": "15",
+        "carbohydrate": "21",
+        "weight": "330"
+      }
     },
     {
       "id": 619,
@@ -421,7 +680,14 @@
       "description": "Обжаренные на оливковом масле ломтики куриного филе в сливочном соусе Дор-Блю с рисом Басмати и томатно-перечным конкассе.",
       "root": 5139,
       "category": "ГОРЯЧИЕ БЛЮДА",
-      "categoryCode": 5151
+      "categoryCode": 5151,
+      "nutrition": {
+        "calories": "270",
+        "protein": "10",
+        "fat": "13",
+        "carbohydrate": "25",
+        "weight": "380"
+      }
     },
     {
       "id": 1689,
@@ -432,7 +698,14 @@
       "description": "Тонко нарезанные ломтики куриного филе, быстро обжаренные с овощами и свежим имберём в сладком соусе чили. Подаётся с ароматным рисом Басмати.",
       "root": 5139,
       "category": "ГОРЯЧИЕ БЛЮДА",
-      "categoryCode": 5151
+      "categoryCode": 5151,
+      "nutrition": {
+        "calories": "218",
+        "protein": "9",
+        "fat": "8",
+        "carbohydrate": "26",
+        "weight": "410"
+      }
     },
     {
       "id": 622,
@@ -443,7 +716,14 @@
       "description": "Традиционная итальянская лазанья с мясным соусом Болоньезе, песто и пармезаном.",
       "root": 5139,
       "category": "ГОРЯЧИЕ БЛЮДА",
-      "categoryCode": 5151
+      "categoryCode": 5151,
+      "nutrition": {
+        "calories": "243",
+        "protein": "9",
+        "fat": "15",
+        "carbohydrate": "16",
+        "weight": "340"
+      }
     },
     {
       "id": 1292,
@@ -454,7 +734,14 @@
       "description": "Итальянская паста с томатным соусом, базиликом, вялеными томатами, шариками моцареллы и пармезаном.",
       "root": 5139,
       "category": "ГОРЯЧИЕ БЛЮДА",
-      "categoryCode": 5151
+      "categoryCode": 5151,
+      "nutrition": {
+        "calories": "243",
+        "protein": "6",
+        "fat": "11",
+        "carbohydrate": "27",
+        "weight": "380"
+      }
     },
     {
       "id": 624,
@@ -465,7 +752,14 @@
       "description": "Итальянская паста с куриным филе в сливочном соусе с жареными грибами, беконом и пармезаном.",
       "root": 5139,
       "category": "ГОРЯЧИЕ БЛЮДА",
-      "categoryCode": 5151
+      "categoryCode": 5151,
+      "nutrition": {
+        "calories": "306",
+        "protein": "9",
+        "fat": "16",
+        "carbohydrate": "29",
+        "weight": "370"
+      }
     },
     {
       "id": 1293,
@@ -476,7 +770,14 @@
       "description": "Итальянская паста с томатным соусом, базиликом, перцем чили и пармезаном.",
       "root": 5139,
       "category": "ГОРЯЧИЕ БЛЮДА",
-      "categoryCode": 5151
+      "categoryCode": 5151,
+      "nutrition": {
+        "calories": "287",
+        "protein": "6",
+        "fat": "13",
+        "carbohydrate": "33",
+        "weight": "350"
+      }
     },
     {
       "id": 1692,
@@ -487,7 +788,14 @@
       "description": "Жареный тонкий свиной шницель в хрустящей панировке. Подаётся с картофелем фри, салатом Ачичук и лимоном.",
       "root": 5139,
       "category": "ГОРЯЧИЕ БЛЮДА",
-      "categoryCode": 5151
+      "categoryCode": 5151,
+      "nutrition": {
+        "calories": "240",
+        "protein": "6",
+        "fat": "20",
+        "carbohydrate": "6",
+        "weight": "320"
+      }
     },
     {
       "id": 1693,
@@ -498,7 +806,14 @@
       "description": "Итальянские спагетти, обжаренные с мясным соусом Болоньезе,\nтёртым пармезаном и песто.",
       "root": 5139,
       "category": "ГОРЯЧИЕ БЛЮДА",
-      "categoryCode": 5151
+      "categoryCode": 5151,
+      "nutrition": {
+        "calories": "342",
+        "protein": "9",
+        "fat": "17",
+        "carbohydrate": "34",
+        "weight": "360"
+      }
     },
     {
       "id": 1694,
@@ -509,7 +824,14 @@
       "description": "Итальянские спагетти с жареным беконом в сливочном соусе с пармезаном.",
       "root": 5139,
       "category": "ГОРЯЧИЕ БЛЮДА",
-      "categoryCode": 5151
+      "categoryCode": 5151,
+      "nutrition": {
+        "calories": "184",
+        "protein": "11",
+        "fat": "12",
+        "carbohydrate": "6",
+        "weight": "320"
+      }
     },
     {
       "id": 1851,
@@ -520,7 +842,14 @@
       "description": "Традиционный греческий шашлык из куриного филе и копчёного бекона, приготовленный на углях. Подаётся на обжаренном с зелёным маслом пшеничном хлебе с картошкой фри, лёгким овощным салатом и йогуртным соусом Дзадзики.",
       "root": 5139,
       "category": "ГОРЯЧИЕ БЛЮДА",
-      "categoryCode": 5151
+      "categoryCode": 5151,
+      "nutrition": {
+        "calories": "163",
+        "protein": "6",
+        "fat": "12",
+        "carbohydrate": "6",
+        "weight": "330"
+      }
     },
     {
       "id": 1852,
@@ -531,7 +860,14 @@
       "description": "Традиционный греческий шашлык из свиной вырезки и копчёного бекона, приготовленный на углях. Подаётся на обжаренном с зелёным маслом пшеничном хлебе с картошкой фри, лёгким овощным салатом и йогуртным соусом Дзадзики.",
       "root": 5139,
       "category": "ГОРЯЧИЕ БЛЮДА",
-      "categoryCode": 5151
+      "categoryCode": 5151,
+      "nutrition": {
+        "calories": "167",
+        "protein": "5",
+        "fat": "13",
+        "carbohydrate": "6",
+        "weight": "330"
+      }
     },
     {
       "id": 1296,
@@ -542,7 +878,14 @@
       "description": "Итальянская паста с креветками и копчёным беконом в сливочном соусе с пармезаном.",
       "root": 5139,
       "category": "ГОРЯЧИЕ БЛЮДА",
-      "categoryCode": 5151
+      "categoryCode": 5151,
+      "nutrition": {
+        "calories": "237",
+        "protein": "8",
+        "fat": "14",
+        "carbohydrate": "1",
+        "weight": "360"
+      }
     },
     {
       "id": 1297,
@@ -553,7 +896,14 @@
       "description": "Итальянская паста со слабосолёным лососем в сливочном соусе.",
       "root": 5139,
       "category": "ГОРЯЧИЕ БЛЮДА",
-      "categoryCode": 5151
+      "categoryCode": 5151,
+      "nutrition": {
+        "calories": "184",
+        "protein": "11",
+        "fat": "12",
+        "carbohydrate": "1",
+        "weight": "365"
+      }
     },
     {
       "id": 1697,
@@ -564,7 +914,14 @@
       "description": "Томлёная утиная ножка с мясным соусом демиглас и грибами. Подаётся с картофельным пюре с пармезаном.",
       "root": 5139,
       "category": "ГОРЯЧИЕ БЛЮДА",
-      "categoryCode": 5151
+      "categoryCode": 5151,
+      "nutrition": {
+        "calories": "131",
+        "protein": "7",
+        "fat": "8",
+        "carbohydrate": "6",
+        "weight": "150/285"
+      }
     },
     {
       "id": 1853,
@@ -575,7 +932,14 @@
       "description": "Нежные ломтики отварного говяжьего языка с традиционными картофельными драниками и грибным сливочным соусом.",
       "root": 5139,
       "category": "ГОРЯЧИЕ БЛЮДА",
-      "categoryCode": 5151
+      "categoryCode": 5151,
+      "nutrition": {
+        "calories": "157",
+        "protein": "2",
+        "fat": "12",
+        "carbohydrate": "8",
+        "weight": "410"
+      }
     },
     {
       "id": 635,
@@ -586,7 +950,14 @@
       "description": "Большая отбивная из говяжьей вырезки с картофельным пюре и томатной сальсой.",
       "root": 5139,
       "category": "ХОСПЕР ГРИЛЬ",
-      "categoryCode": 5174
+      "categoryCode": 5174,
+      "nutrition": {
+        "calories": "192",
+        "protein": "9",
+        "fat": "13",
+        "carbohydrate": "6",
+        "weight": "370"
+      }
     },
     {
       "id": 1298,
@@ -597,7 +968,14 @@
       "description": "Классический стейк из говяжьей вырезки с овощами по-тайски, картофелем фри и мясным соусом Демиглас с грибами.",
       "root": 5139,
       "category": "ХОСПЕР ГРИЛЬ",
-      "categoryCode": 5174
+      "categoryCode": 5174,
+      "nutrition": {
+        "calories": "190",
+        "protein": "7",
+        "fat": "14",
+        "carbohydrate": "7",
+        "weight": "410"
+      }
     },
     {
       "id": 1299,
@@ -608,7 +986,14 @@
       "description": "Классический стейк из говяжьей вырезки в перечном соусе с запечённым картофелем и луком фри.",
       "root": 5139,
       "category": "ХОСПЕР ГРИЛЬ",
-      "categoryCode": 5174
+      "categoryCode": 5174,
+      "nutrition": {
+        "calories": "181",
+        "protein": "6",
+        "fat": "12",
+        "carbohydrate": "8",
+        "weight": "460"
+      }
     },
     {
       "id": 1300,
@@ -619,7 +1004,14 @@
       "description": "Рубленные бифштексы из говяжьей вырезки с плавленным сыром Чеддер, соусом тартар и томатно-перечным конкассе. Подаются с картофельными дольками.",
       "root": 5139,
       "category": "ХОСПЕР ГРИЛЬ",
-      "categoryCode": 5174
+      "categoryCode": 5174,
+      "nutrition": {
+        "calories": "255",
+        "protein": "7",
+        "fat": "22",
+        "carbohydrate": "1",
+        "weight": "375"
+      }
     },
     {
       "id": 1301,
@@ -630,7 +1022,14 @@
       "description": "Пикантные куриные крылышки с соусом Блю чиз.",
       "root": 5139,
       "category": "ХОСПЕР ГРИЛЬ",
-      "categoryCode": 5174
+      "categoryCode": 5174,
+      "nutrition": {
+        "calories": "224",
+        "protein": "14",
+        "fat": "17",
+        "carbohydrate": "2",
+        "weight": "300"
+      }
     },
     {
       "id": 1302,
@@ -641,7 +1040,14 @@
       "description": "Подаётся со шпинатным соусом, картофельным пюре и спаржевой фасолью.",
       "root": 5139,
       "category": "ХОСПЕР ГРИЛЬ",
-      "categoryCode": 5174
+      "categoryCode": 5174,
+      "nutrition": {
+        "calories": "173",
+        "protein": "11",
+        "fat": "12",
+        "carbohydrate": "4",
+        "weight": "420"
+      }
     },
     {
       "id": 1303,
@@ -652,7 +1058,14 @@
       "description": "Подаётся с запечённым картофелем, жареным красным луком и песто из петрушки.",
       "root": 5139,
       "category": "ХОСПЕР ГРИЛЬ",
-      "categoryCode": 5174
+      "categoryCode": 5174,
+      "nutrition": {
+        "calories": "212",
+        "protein": "7",
+        "fat": "16",
+        "carbohydrate": "7",
+        "weight": "370"
+      }
     },
     {
       "id": 1304,
@@ -663,7 +1076,14 @@
       "description": "Свиная вырезка с томатной-перечным конкассе,  песто из петрушки и кедровыми орешками. Подаётся с жареной спаржевой фасолью в чесночном масле и голландским соусом.",
       "root": 5139,
       "category": "ХОСПЕР ГРИЛЬ",
-      "categoryCode": 5174
+      "categoryCode": 5174,
+      "nutrition": {
+        "calories": "181",
+        "protein": "9",
+        "fat": "14",
+        "carbohydrate": "3",
+        "weight": "340"
+      }
     },
     {
       "id": 1306,
@@ -674,7 +1094,14 @@
       "description": "Подаётся с чесночным соусом и свежими томатами.",
       "root": 5139,
       "category": "ХОСПЕР ГРИЛЬ",
-      "categoryCode": 5174
+      "categoryCode": 5174,
+      "nutrition": {
+        "calories": "135",
+        "protein": "9",
+        "fat": "9",
+        "carbohydrate": "3",
+        "weight": "415"
+      }
     },
     {
       "id": 650,
@@ -685,7 +1112,14 @@
       "description": "Подаётся с маринованным луком и свежими томатами.",
       "root": 5139,
       "category": "ХОСПЕР ГРИЛЬ",
-      "categoryCode": 5174
+      "categoryCode": 5174,
+      "nutrition": {
+        "calories": "148",
+        "protein": "8",
+        "fat": "11",
+        "carbohydrate": "3",
+        "weight": "430"
+      }
     },
     {
       "id": 1307,
@@ -696,7 +1130,14 @@
       "description": "Корейка жареная с томатами и моцареллой. Подаётся с брокколи и чесночным маслом.",
       "root": 5139,
       "category": "ХОСПЕР ГРИЛЬ",
-      "categoryCode": 5174
+      "categoryCode": 5174,
+      "nutrition": {
+        "calories": "215",
+        "protein": "9",
+        "fat": "18",
+        "carbohydrate": "3",
+        "weight": "370"
+      }
     },
     {
       "id": 1284,
@@ -707,7 +1148,14 @@
       "description": "",
       "root": 5139,
       "category": "ГАРНИРЫ",
-      "categoryCode": 5140
+      "categoryCode": 5140,
+      "nutrition": {
+        "calories": "93",
+        "protein": "3",
+        "fat": "7",
+        "carbohydrate": "2",
+        "weight": "150"
+      }
     },
     {
       "id": 604,
@@ -718,7 +1166,14 @@
       "description": "",
       "root": 5139,
       "category": "ГАРНИРЫ",
-      "categoryCode": 5140
+      "categoryCode": 5140,
+      "nutrition": {
+        "calories": "89",
+        "protein": "1",
+        "fat": "2",
+        "carbohydrate": "13",
+        "weight": "200"
+      }
     },
     {
       "id": 1285,
@@ -729,7 +1184,14 @@
       "description": "",
       "root": 5139,
       "category": "ГАРНИРЫ",
-      "categoryCode": 5140
+      "categoryCode": 5140,
+      "nutrition": {
+        "calories": "256",
+        "protein": "0",
+        "fat": "19",
+        "carbohydrate": "0",
+        "weight": "150"
+      }
     },
     {
       "id": 606,
@@ -740,7 +1202,14 @@
       "description": "",
       "root": 5139,
       "category": "ГАРНИРЫ",
-      "categoryCode": 5140
+      "categoryCode": 5140,
+      "nutrition": {
+        "calories": "121",
+        "protein": "4",
+        "fat": "5",
+        "carbohydrate": "12",
+        "weight": "150"
+      }
     },
     {
       "id": 607,
@@ -751,7 +1220,14 @@
       "description": "",
       "root": 5139,
       "category": "ГАРНИРЫ",
-      "categoryCode": 5140
+      "categoryCode": 5140,
+      "nutrition": {
+        "calories": "253",
+        "protein": "1",
+        "fat": "18",
+        "carbohydrate": "19",
+        "weight": "150"
+      }
     },
     {
       "id": 608,
@@ -762,7 +1238,14 @@
       "description": "",
       "root": 5139,
       "category": "ГАРНИРЫ",
-      "categoryCode": 5140
+      "categoryCode": 5140,
+      "nutrition": {
+        "calories": "402",
+        "protein": "5",
+        "fat": "12",
+        "carbohydrate": "67",
+        "weight": "150"
+      }
     },
     {
       "id": 609,
@@ -773,7 +1256,14 @@
       "description": "",
       "root": 5139,
       "category": "ГАРНИРЫ",
-      "categoryCode": 5140
+      "categoryCode": 5140,
+      "nutrition": {
+        "calories": "61",
+        "protein": "2",
+        "fat": "2",
+        "carbohydrate": "8",
+        "weight": "150"
+      }
     },
     {
       "id": 1326,
@@ -784,7 +1274,14 @@
       "description": "",
       "root": 5139,
       "category": "ХЛЕБ",
-      "categoryCode": 5231
+      "categoryCode": 5231,
+      "nutrition": {
+        "calories": "251",
+        "protein": "9",
+        "fat": "1",
+        "carbohydrate": "50",
+        "weight": null
+      }
     },
     {
       "id": 1854,
@@ -795,7 +1292,14 @@
       "description": "",
       "root": 5139,
       "category": "ДЕСЕРТЫ",
-      "categoryCode": 5188
+      "categoryCode": 5188,
+      "nutrition": {
+        "calories": "373",
+        "protein": "8",
+        "fat": "26",
+        "carbohydrate": "26",
+        "weight": "120"
+      }
     },
     {
       "id": 1855,
@@ -806,7 +1310,14 @@
       "description": "",
       "root": 5139,
       "category": "ДЕСЕРТЫ",
-      "categoryCode": 5188
+      "categoryCode": 5188,
+      "nutrition": {
+        "calories": "265",
+        "protein": "8",
+        "fat": "17",
+        "carbohydrate": "19",
+        "weight": "120"
+      }
     },
     {
       "id": 1860,
@@ -817,7 +1328,14 @@
       "description": "",
       "root": 5139,
       "category": "ДЕСЕРТЫ",
-      "categoryCode": 5188
+      "categoryCode": 5188,
+      "nutrition": {
+        "calories": "165",
+        "protein": "1",
+        "fat": "7",
+        "carbohydrate": "23",
+        "weight": "150"
+      }
     },
     {
       "id": 1861,
@@ -828,7 +1346,14 @@
       "description": "",
       "root": 5139,
       "category": "ДЕСЕРТЫ",
-      "categoryCode": 5188
+      "categoryCode": 5188,
+      "nutrition": {
+        "calories": "168",
+        "protein": "1",
+        "fat": "7",
+        "carbohydrate": "24",
+        "weight": "150"
+      }
     },
     {
       "id": 1862,
@@ -839,7 +1364,14 @@
       "description": "",
       "root": 5139,
       "category": "ДЕСЕРТЫ",
-      "categoryCode": 5188
+      "categoryCode": 5188,
+      "nutrition": {
+        "calories": "168",
+        "protein": "1",
+        "fat": "7",
+        "carbohydrate": "24",
+        "weight": "150"
+      }
     },
     {
       "id": 1863,
@@ -850,7 +1382,14 @@
       "description": "",
       "root": 5139,
       "category": "ДЕСЕРТЫ",
-      "categoryCode": 5188
+      "categoryCode": 5188,
+      "nutrition": {
+        "calories": "168",
+        "protein": "1",
+        "fat": "7",
+        "carbohydrate": "24",
+        "weight": "150"
+      }
     },
     {
       "id": 1856,
@@ -861,7 +1400,14 @@
       "description": "",
       "root": 5139,
       "category": "ДЕСЕРТЫ",
-      "categoryCode": 5188
+      "categoryCode": 5188,
+      "nutrition": {
+        "calories": "256",
+        "protein": "6",
+        "fat": "17",
+        "carbohydrate": "18",
+        "weight": "120/30"
+      }
     },
     {
       "id": 1858,
@@ -872,7 +1418,14 @@
       "description": "",
       "root": 5139,
       "category": "ДЕСЕРТЫ",
-      "categoryCode": 5188
+      "categoryCode": 5188,
+      "nutrition": {
+        "calories": "291",
+        "protein": "6",
+        "fat": "19",
+        "carbohydrate": "21",
+        "weight": "120/30"
+      }
     },
     {
       "id": 1859,
@@ -883,7 +1436,14 @@
       "description": "",
       "root": 5139,
       "category": "ДЕСЕРТЫ",
-      "categoryCode": 5188
+      "categoryCode": 5188,
+      "nutrition": {
+        "calories": "265",
+        "protein": "8",
+        "fat": "17",
+        "carbohydrate": "19",
+        "weight": "120"
+      }
     },
     {
       "id": 669,
@@ -894,7 +1454,14 @@
       "description": "",
       "root": 5139,
       "category": "СОУСЫ",
-      "categoryCode": 5342
+      "categoryCode": 5342,
+      "nutrition": {
+        "calories": "532",
+        "protein": "1",
+        "fat": "57",
+        "carbohydrate": "2",
+        "weight": null
+      }
     },
     {
       "id": 670,
@@ -905,7 +1472,14 @@
       "description": "",
       "root": 5139,
       "category": "СОУСЫ",
-      "categoryCode": 5342
+      "categoryCode": 5342,
+      "nutrition": {
+        "calories": "96",
+        "protein": "0",
+        "fat": "0",
+        "carbohydrate": "23",
+        "weight": null
+      }
     },
     {
       "id": 671,
@@ -916,7 +1490,14 @@
       "description": "",
       "root": 5139,
       "category": "СОУСЫ",
-      "categoryCode": 5342
+      "categoryCode": 5342,
+      "nutrition": {
+        "calories": "624",
+        "protein": "2",
+        "fat": "67",
+        "carbohydrate": "2",
+        "weight": null
+      }
     },
     {
       "id": 672,
@@ -927,7 +1508,14 @@
       "description": "",
       "root": 5139,
       "category": "СОУСЫ",
-      "categoryCode": 5342
+      "categoryCode": 5342,
+      "nutrition": {
+        "calories": "206",
+        "protein": "2",
+        "fat": "20",
+        "carbohydrate": "3",
+        "weight": null
+      }
     },
     {
       "id": 673,
@@ -938,7 +1526,14 @@
       "description": "",
       "root": 5139,
       "category": "СОУСЫ",
-      "categoryCode": 5342
+      "categoryCode": 5342,
+      "nutrition": {
+        "calories": "330",
+        "protein": "9",
+        "fat": "31",
+        "carbohydrate": "1",
+        "weight": null
+      }
     },
     {
       "id": 676,
@@ -949,7 +1544,14 @@
       "description": "",
       "root": 5139,
       "category": "СОУСЫ",
-      "categoryCode": 5342
+      "categoryCode": 5342,
+      "nutrition": {
+        "calories": "214",
+        "protein": "0",
+        "fat": "0",
+        "carbohydrate": "53",
+        "weight": null
+      }
     },
     {
       "id": 677,
@@ -960,7 +1562,14 @@
       "description": "",
       "root": 5139,
       "category": "СОУСЫ",
-      "categoryCode": 5342
+      "categoryCode": 5342,
+      "nutrition": {
+        "calories": "521",
+        "protein": "2",
+        "fat": "55",
+        "carbohydrate": "2",
+        "weight": null
+      }
     },
     {
       "id": 680,
@@ -971,7 +1580,14 @@
       "description": "",
       "root": 5139,
       "category": "СОУСЫ",
-      "categoryCode": 5342
+      "categoryCode": 5342,
+      "nutrition": {
+        "calories": "169",
+        "protein": "2",
+        "fat": "15",
+        "carbohydrate": "3",
+        "weight": null
+      }
     },
     {
       "id": 1230,
@@ -982,7 +1598,14 @@
       "description": "обжаренный бекон и подкопченная колбаска, жульен из курицы с грибами, драниками и яйцом глазунья.\nВес - 375г",
       "root": 6846,
       "category": "БОЛЬШИЕ ЗАВТРАКИ",
-      "categoryCode": 7855
+      "categoryCode": 7855,
+      "nutrition": {
+        "calories": "191",
+        "protein": "10",
+        "fat": "15",
+        "carbohydrate": "2",
+        "weight": null
+      }
     },
     {
       "id": 1231,
@@ -993,7 +1616,14 @@
       "description": "обжаренная мортаделла, полоски бекона, яйцо глазунья с картофельным пюре, маринованным огурцом и бриошь со сливочным сыром.\nВес - 340г",
       "root": 6846,
       "category": "БОЛЬШИЕ ЗАВТРАКИ",
-      "categoryCode": 7855
+      "categoryCode": 7855,
+      "nutrition": {
+        "calories": "192",
+        "protein": "10",
+        "fat": "15",
+        "carbohydrate": "2",
+        "weight": null
+      }
     },
     {
       "id": 1050,
@@ -1004,7 +1634,14 @@
       "description": "две домашние котлеты с картофельным пюре, жареным яйцом, двойным сыром чеддер и томатно-перечным конкассе.\nВес - 350г",
       "root": 6846,
       "category": "БОЛЬШИЕ ЗАВТРАКИ",
-      "categoryCode": 7855
+      "categoryCode": 7855,
+      "nutrition": {
+        "calories": "274",
+        "protein": "9",
+        "fat": "19",
+        "carbohydrate": "14",
+        "weight": null
+      }
     },
     {
       "id": 1232,
@@ -1015,7 +1652,14 @@
       "description": "обжаренная подкопченная колбаска с яйцом глазунья, картофелем фри, овощным лечо и бриошь с мясной намазкой.\nВес - 390г",
       "root": 6846,
       "category": "БОЛЬШИЕ ЗАВТРАКИ",
-      "categoryCode": 7855
+      "categoryCode": 7855,
+      "nutrition": {
+        "calories": "179",
+        "protein": "11",
+        "fat": "13",
+        "carbohydrate": "3",
+        "weight": null
+      }
     },
     {
       "id": 1233,
@@ -1026,7 +1670,14 @@
       "description": "домашняя котлета с картофельным пюре, жареным яйцом, сыром чеддер и томатно-перечным конкассе.\nВес - 270г",
       "root": 6846,
       "category": "БОЛЬШИЕ ЗАВТРАКИ",
-      "categoryCode": 7855
+      "categoryCode": 7855,
+      "nutrition": {
+        "calories": "168",
+        "protein": "11",
+        "fat": "12",
+        "carbohydrate": "1",
+        "weight": null
+      }
     },
     {
       "id": 1243,
@@ -1037,7 +1688,14 @@
       "description": "из 3-х яиц",
       "root": 6846,
       "category": "ЯИЧНИЦЫ",
-      "categoryCode": 7823
+      "categoryCode": 7823,
+      "nutrition": {
+        "calories": "158",
+        "protein": "12",
+        "fat": "11",
+        "carbohydrate": "0",
+        "weight": null
+      }
     },
     {
       "id": 1244,
@@ -1048,7 +1706,14 @@
       "description": "из 3-х яиц",
       "root": 6846,
       "category": "ЯИЧНИЦЫ",
-      "categoryCode": 7823
+      "categoryCode": 7823,
+      "nutrition": {
+        "calories": "160",
+        "protein": "12",
+        "fat": "11",
+        "carbohydrate": "0",
+        "weight": null
+      }
     },
     {
       "id": 1238,
@@ -1059,7 +1724,14 @@
       "description": "Вес - 25г",
       "root": 6846,
       "category": "ЯИЧНИЦЫ",
-      "categoryCode": 7823
+      "categoryCode": 7823,
+      "nutrition": {
+        "calories": "537",
+        "protein": "7",
+        "fat": "56",
+        "carbohydrate": "0",
+        "weight": null
+      }
     },
     {
       "id": 1240,
@@ -1070,7 +1742,14 @@
       "description": "Вес - 40г",
       "root": 6846,
       "category": "ЯИЧНИЦЫ",
-      "categoryCode": 7823
+      "categoryCode": 7823,
+      "nutrition": {
+        "calories": "220",
+        "protein": "7",
+        "fat": "20",
+        "carbohydrate": "2",
+        "weight": null
+      }
     },
     {
       "id": 1241,
@@ -1081,7 +1760,14 @@
       "description": "Вес - 60г",
       "root": 6846,
       "category": "ЯИЧНИЦЫ",
-      "categoryCode": 7823
+      "categoryCode": 7823,
+      "nutrition": {
+        "calories": "420",
+        "protein": "24",
+        "fat": "33",
+        "carbohydrate": "4",
+        "weight": null
+      }
     },
     {
       "id": 1242,
@@ -1092,7 +1778,14 @@
       "description": "Вес - 30г",
       "root": 6846,
       "category": "ЯИЧНИЦЫ",
-      "categoryCode": 7823
+      "categoryCode": 7823,
+      "nutrition": {
+        "calories": "201",
+        "protein": "17",
+        "fat": "14",
+        "carbohydrate": "0",
+        "weight": null
+      }
     },
     {
       "id": 469,
@@ -1103,7 +1796,14 @@
       "description": "Вес - 25г",
       "root": 6846,
       "category": "ЯИЧНИЦЫ",
-      "categoryCode": 7823
+      "categoryCode": 7823,
+      "nutrition": {
+        "calories": "350",
+        "protein": "23",
+        "fat": "26",
+        "carbohydrate": "0",
+        "weight": null
+      }
     },
     {
       "id": 468,
@@ -1114,7 +1814,14 @@
       "description": "Вес - 100г",
       "root": 6846,
       "category": "ЯИЧНИЦЫ",
-      "categoryCode": 7823
+      "categoryCode": 7823,
+      "nutrition": {
+        "calories": "22",
+        "protein": "1",
+        "fat": "0",
+        "carbohydrate": "4",
+        "weight": null
+      }
     },
     {
       "id": 463,
@@ -1125,7 +1832,14 @@
       "description": "Вес - 100г",
       "root": 6846,
       "category": "ЯИЧНИЦЫ",
-      "categoryCode": 7823
+      "categoryCode": 7823,
+      "nutrition": {
+        "calories": "253",
+        "protein": "1",
+        "fat": "18",
+        "carbohydrate": "19",
+        "weight": null
+      }
     },
     {
       "id": 1239,
@@ -1136,7 +1850,14 @@
       "description": "Вес - 100г",
       "root": 6846,
       "category": "ЯИЧНИЦЫ",
-      "categoryCode": 7823
+      "categoryCode": 7823,
+      "nutrition": {
+        "calories": "256",
+        "protein": "0",
+        "fat": "19",
+        "carbohydrate": "0",
+        "weight": null
+      }
     },
     {
       "id": 1234,
@@ -1147,7 +1868,14 @@
       "description": "дополнение к омлету\nВес - 25г",
       "root": 6846,
       "category": "ОМЛЕТ",
-      "categoryCode": 7834
+      "categoryCode": 7834,
+      "nutrition": {
+        "calories": "537",
+        "protein": "7",
+        "fat": "56",
+        "carbohydrate": "0",
+        "weight": null
+      }
     },
     {
       "id": 1235,
@@ -1158,7 +1886,14 @@
       "description": "дополнение к омлету\nВес - 40г",
       "root": 6846,
       "category": "ОМЛЕТ",
-      "categoryCode": 7834
+      "categoryCode": 7834,
+      "nutrition": {
+        "calories": "220",
+        "protein": "7",
+        "fat": "20",
+        "carbohydrate": "2",
+        "weight": null
+      }
     },
     {
       "id": 1236,
@@ -1169,7 +1904,14 @@
       "description": "дополнение к омлету\nВес - 30г",
       "root": 6846,
       "category": "ОМЛЕТ",
-      "categoryCode": 7834
+      "categoryCode": 7834,
+      "nutrition": {
+        "calories": "201",
+        "protein": "17",
+        "fat": "14",
+        "carbohydrate": "0",
+        "weight": null
+      }
     },
     {
       "id": 1237,
@@ -1180,7 +1922,14 @@
       "description": "на оливковом масле с петрушковым песто, руколой, маринованными опятами, томатами черри и свежим огурцом.\nВес - 250г",
       "root": 6846,
       "category": "ОМЛЕТ",
-      "categoryCode": 7834
+      "categoryCode": 7834,
+      "nutrition": {
+        "calories": "153",
+        "protein": "12",
+        "fat": "11",
+        "carbohydrate": "0",
+        "weight": null
+      }
     },
     {
       "id": 1223,
@@ -1191,7 +1940,14 @@
       "description": "Подаётся со сметаной и клубничным муссом\nВес - 140г",
       "root": 6846,
       "category": "БЛИНЧИКИ",
-      "categoryCode": 7841
+      "categoryCode": 7841,
+      "nutrition": {
+        "calories": "163",
+        "protein": "4",
+        "fat": "11",
+        "carbohydrate": "10",
+        "weight": null
+      }
     },
     {
       "id": 1224,
@@ -1202,7 +1958,14 @@
       "description": "Подаётся со сметаной и клубничным муссом\nВес - 140г",
       "root": 6846,
       "category": "БЛИНЧИКИ",
-      "categoryCode": 7841
+      "categoryCode": 7841,
+      "nutrition": {
+        "calories": "161",
+        "protein": "4",
+        "fat": "11",
+        "carbohydrate": "9",
+        "weight": null
+      }
     },
     {
       "id": 435,
@@ -1213,7 +1976,14 @@
       "description": "Подаётся со сметаной и клубничным муссом\nВес - 140г",
       "root": 6846,
       "category": "БЛИНЧИКИ",
-      "categoryCode": 7841
+      "categoryCode": 7841,
+      "nutrition": {
+        "calories": "187",
+        "protein": "8",
+        "fat": "13",
+        "carbohydrate": "8",
+        "weight": null
+      }
     },
     {
       "id": 461,
@@ -1224,7 +1994,14 @@
       "description": "со сметаной и клубничным муссом.\nВес - 255г",
       "root": 6846,
       "category": "СЫРНИКИ",
-      "categoryCode": 7839
+      "categoryCode": 7839,
+      "nutrition": {
+        "calories": "188",
+        "protein": "10",
+        "fat": "11",
+        "carbohydrate": "9",
+        "weight": null
+      }
     },
     {
       "id": 436,
@@ -1235,7 +2012,14 @@
       "description": "с мясной намазкой, опятами и соусом песто.\nВес - 110г",
       "root": 6846,
       "category": "БРУСКЕТТЫ НА БРИОШЬ",
-      "categoryCode": 7850
+      "categoryCode": 7850,
+      "nutrition": {
+        "calories": "370",
+        "protein": "5",
+        "fat": "36",
+        "carbohydrate": "4",
+        "weight": null
+      }
     },
     {
       "id": 1225,
@@ -1246,7 +2030,14 @@
       "description": "со сливочным сыром, свежим огурцом и соусом песто.\nВес - 110г",
       "root": 6846,
       "category": "БРУСКЕТТЫ НА БРИОШЬ",
-      "categoryCode": 7850
+      "categoryCode": 7850,
+      "nutrition": {
+        "calories": "147",
+        "protein": "8",
+        "fat": "9",
+        "carbohydrate": "6",
+        "weight": null
+      }
     },
     {
       "id": 1226,
@@ -1257,7 +2048,14 @@
       "description": "с яичным саплатом.\nВес - 130г",
       "root": 6846,
       "category": "БРУСКЕТТЫ НА БРИОШЬ",
-      "categoryCode": 7850
+      "categoryCode": 7850,
+      "nutrition": {
+        "calories": "230",
+        "protein": "9",
+        "fat": "18",
+        "carbohydrate": "6",
+        "weight": null
+      }
     },
     {
       "id": 1227,
@@ -1268,7 +2066,14 @@
       "description": "со сладким перцем, яичным салатом и соусом песто.\nВес - 130г",
       "root": 6846,
       "category": "БРУСКЕТТЫ НА БРИОШЬ",
-      "categoryCode": 7850
+      "categoryCode": 7850,
+      "nutrition": {
+        "calories": "229",
+        "protein": "10",
+        "fat": "15",
+        "carbohydrate": "6",
+        "weight": null
+      }
     },
     {
       "id": 1228,
@@ -1279,7 +2084,14 @@
       "description": "обжаренные овсяные хлопья, заправленные йогуртом с инжиром и курагой.\nВес - 180г",
       "root": 6846,
       "category": "ГРАНОЛА",
-      "categoryCode": 7848
+      "categoryCode": 7848,
+      "nutrition": {
+        "calories": "142",
+        "protein": "3",
+        "fat": "6",
+        "carbohydrate": "20",
+        "weight": null
+      }
     },
     {
       "id": 455,
@@ -1290,7 +2102,14 @@
       "description": "",
       "root": 6846,
       "category": "КАШИ",
-      "categoryCode": 7845
+      "categoryCode": 7845,
+      "nutrition": {
+        "calories": "339",
+        "protein": "4",
+        "fat": "23",
+        "carbohydrate": "27",
+        "weight": null
+      }
     },
     {
       "id": 456,
@@ -1301,7 +2120,14 @@
       "description": "",
       "root": 6846,
       "category": "КАШИ",
-      "categoryCode": 7845
+      "categoryCode": 7845,
+      "nutrition": {
+        "calories": "342",
+        "protein": "4",
+        "fat": "23",
+        "carbohydrate": "28",
+        "weight": null
+      }
     },
     {
       "id": 1229,
@@ -1312,7 +2138,14 @@
       "description": "",
       "root": 6846,
       "category": "Дополнительно",
-      "categoryCode": 6848
+      "categoryCode": 6848,
+      "nutrition": {
+        "calories": "0",
+        "protein": "0",
+        "fat": "0",
+        "carbohydrate": "0",
+        "weight": null
+      }
     },
     {
       "id": 444,
@@ -1323,7 +2156,14 @@
       "description": "",
       "root": 6846,
       "category": "Дополнительно",
-      "categoryCode": 6848
+      "categoryCode": 6848,
+      "nutrition": {
+        "calories": "661",
+        "protein": "0",
+        "fat": "72",
+        "carbohydrate": "1",
+        "weight": null
+      }
     },
     {
       "id": 445,
@@ -1334,7 +2174,14 @@
       "description": "",
       "root": 6846,
       "category": "Дополнительно",
-      "categoryCode": 6848
+      "categoryCode": 6848,
+      "nutrition": {
+        "calories": "532",
+        "protein": "1",
+        "fat": "57",
+        "carbohydrate": "2",
+        "weight": null
+      }
     },
     {
       "id": 448,
@@ -1345,7 +2192,14 @@
       "description": "",
       "root": 6846,
       "category": "Дополнительно",
-      "categoryCode": 6848
+      "categoryCode": 6848,
+      "nutrition": {
+        "calories": "466",
+        "protein": "2",
+        "fat": "49",
+        "carbohydrate": "3",
+        "weight": null
+      }
     },
     {
       "id": 449,
@@ -1356,7 +2210,14 @@
       "description": "",
       "root": 6846,
       "category": "Дополнительно",
-      "categoryCode": 6848
+      "categoryCode": 6848,
+      "nutrition": {
+        "calories": "384",
+        "protein": "33",
+        "fat": "28",
+        "carbohydrate": "0",
+        "weight": null
+      }
     },
     {
       "id": 499,
@@ -1367,7 +2228,14 @@
       "description": "Вес - 250г",
       "root": 5474,
       "category": "Супы обед",
-      "categoryCode": 5497
+      "categoryCode": 5497,
+      "nutrition": {
+        "calories": "123",
+        "protein": "3",
+        "fat": "6",
+        "carbohydrate": "12",
+        "weight": null
+      }
     },
     {
       "id": 500,
@@ -1378,7 +2246,14 @@
       "description": "Вес - 250г",
       "root": 5474,
       "category": "Супы обед",
-      "categoryCode": 5497
+      "categoryCode": 5497,
+      "nutrition": {
+        "calories": "135",
+        "protein": "3",
+        "fat": "6",
+        "carbohydrate": "13",
+        "weight": null
+      }
     },
     {
       "id": 501,
@@ -1389,7 +2264,14 @@
       "description": "Вес - 250г",
       "root": 5474,
       "category": "Супы обед",
-      "categoryCode": 5497
+      "categoryCode": 5497,
+      "nutrition": {
+        "calories": "68",
+        "protein": "3",
+        "fat": "0",
+        "carbohydrate": "11",
+        "weight": null
+      }
     },
     {
       "id": 505,
@@ -1400,7 +2282,14 @@
       "description": "Вес - 250г",
       "root": 5474,
       "category": "Супы обед",
-      "categoryCode": 5497
+      "categoryCode": 5497,
+      "nutrition": {
+        "calories": "125",
+        "protein": "4",
+        "fat": "5",
+        "carbohydrate": "13",
+        "weight": null
+      }
     },
     {
       "id": 506,
@@ -1411,7 +2300,14 @@
       "description": "Вес - 250г",
       "root": 5474,
       "category": "Супы обед",
-      "categoryCode": 5497
+      "categoryCode": 5497,
+      "nutrition": {
+        "calories": "109",
+        "protein": "2",
+        "fat": "5",
+        "carbohydrate": "11",
+        "weight": null
+      }
     },
     {
       "id": 1766,
@@ -1422,7 +2318,14 @@
       "description": "со сметаной",
       "root": 5474,
       "category": "Горячие блюда обед",
-      "categoryCode": 5483
+      "categoryCode": 5483,
+      "nutrition": {
+        "calories": "104",
+        "protein": "3",
+        "fat": "7",
+        "carbohydrate": "4",
+        "weight": "180/50"
+      }
     },
     {
       "id": 1564,
@@ -1433,7 +2336,14 @@
       "description": "Вес - 120г",
       "root": 5474,
       "category": "Гарниры обед",
-      "categoryCode": 5475
+      "categoryCode": 5475,
+      "nutrition": {
+        "calories": "94",
+        "protein": "3",
+        "fat": "7",
+        "carbohydrate": "2",
+        "weight": null
+      }
     },
     {
       "id": 1760,
@@ -1444,7 +2354,14 @@
       "description": "Вес - 100г",
       "root": 5474,
       "category": "Гарниры обед",
-      "categoryCode": 5475
+      "categoryCode": 5475,
+      "nutrition": {
+        "calories": "140",
+        "protein": "2",
+        "fat": "4",
+        "carbohydrate": "22",
+        "weight": null
+      }
     },
     {
       "id": 1761,
@@ -1455,7 +2372,14 @@
       "description": "Вес - 130г",
       "root": 5474,
       "category": "Гарниры обед",
-      "categoryCode": 5475
+      "categoryCode": 5475,
+      "nutrition": {
+        "calories": "89",
+        "protein": "1",
+        "fat": "3",
+        "carbohydrate": "11",
+        "weight": null
+      }
     },
     {
       "id": 1762,
@@ -1466,7 +2390,14 @@
       "description": "Вес - 100г",
       "root": 5474,
       "category": "Гарниры обед",
-      "categoryCode": 5475
+      "categoryCode": 5475,
+      "nutrition": {
+        "calories": "22",
+        "protein": "1",
+        "fat": "0",
+        "carbohydrate": "4",
+        "weight": null
+      }
     },
     {
       "id": 1763,
@@ -1477,7 +2408,14 @@
       "description": "Вес - 130г",
       "root": 5474,
       "category": "Гарниры обед",
-      "categoryCode": 5475
+      "categoryCode": 5475,
+      "nutrition": {
+        "calories": "402",
+        "protein": "5",
+        "fat": "12",
+        "carbohydrate": "67",
+        "weight": null
+      }
     },
     {
       "id": 1764,
@@ -1488,7 +2426,14 @@
       "description": "Вес - 100г",
       "root": 5474,
       "category": "Гарниры обед",
-      "categoryCode": 5475
+      "categoryCode": 5475,
+      "nutrition": {
+        "calories": "61",
+        "protein": "2",
+        "fat": "2",
+        "carbohydrate": "8",
+        "weight": null
+      }
     },
     {
       "id": 1799,
@@ -1499,7 +2444,15 @@
       "description": "",
       "root": 5474,
       "category": "Десерты обед (В)",
-      "categoryCode": 9105
+      "categoryCode": 9105,
+      "nutrition": {
+        "calories": "0",
+        "protein": "0",
+        "fat": "0",
+        "carbohydrate": "0",
+        "weight": "60"
+      }
     }
-  ]
+  ],
+  "nutritionSource": "https://fasol.orionhall.by/api/menu/dish/list, выгрузка kbju-20261118"
 }
