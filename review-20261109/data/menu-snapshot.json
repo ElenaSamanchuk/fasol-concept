@@ -2140,11 +2140,12 @@
       "category": "Дополнительно",
       "categoryCode": 6848,
       "nutrition": {
-        "calories": "0",
-        "protein": "0",
-        "fat": "0",
-        "carbohydrate": "0",
-        "weight": null
+        "calories": "304",
+        "protein": "5",
+        "fat": "8",
+        "carbohydrate": "57",
+        "weight": null,
+        "estimated": "https://calorizator.ru/product/bread/brioche (304 ккал, 5,2 / 7,5 / 57,2 г)"
       }
     },
     {
@@ -2446,11 +2447,12 @@
       "category": "Десерты обед (В)",
       "categoryCode": 9105,
       "nutrition": {
-        "calories": "0",
-        "protein": "0",
-        "fat": "0",
-        "carbohydrate": "0",
-        "weight": "60"
+        "calories": "392",
+        "protein": "4",
+        "fat": "20",
+        "carbohydrate": "49",
+        "weight": "60",
+        "estimated": "https://calorizator.ru/product/cake/pastry-1, «Картошка с кремом» (392 ккал, 4,3 / 19,7 / 48,9 г)"
       }
     }
   ],
