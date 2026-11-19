@@ -1,0 +1,160 @@
+<!doctype html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex">
+<title>«ФаСоль» — карта пути</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600&family=Golos+Text:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#3f2021;--deep:#2c1518;--panel:#472729;--line:#74545b;--text:#fff6ef;--muted:#d0bfc2;--soft:#c3a9ad;--wine:#ae163d;--wine-h:#c41c47;--accent:#f4bccb;
+--sans:'Golos Text',Arial,sans-serif;--serif:'Cormorant Garamond',Georgia,serif}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--bg);color:var(--text);font:400 17px/1.6 var(--sans);overflow-x:hidden}
+.wrap{max-width:1040px;margin:0 auto;padding:0 20px}
+h1,h2,h3{font-family:var(--serif);font-weight:600;margin:0;overflow-wrap:anywhere}
+a{color:var(--accent)}
+header{background:var(--deep);padding:64px 0 56px;border-bottom:1px solid var(--line)}
+.eyebrow{font-size:13px;letter-spacing:.14em;text-transform:uppercase;color:var(--soft);margin:0 0 14px}
+h1{font-size:clamp(38px,8vw,72px);line-height:1.05}
+.lead{max-width:640px;color:var(--muted);margin:20px 0 28px;font-size:18px}
+.btn{display:inline-block;background:var(--wine);color:var(--text);text-decoration:none;padding:14px 24px;border-radius:999px;font-weight:500;transition:background .2s}
+.btn:hover{background:var(--wine-h)}
+.note{font-size:14px;color:var(--soft);margin:12px 0 0}
+section{padding:56px 0}
+h2{font-size:clamp(30px,5vw,44px);line-height:1.1;margin-bottom:28px}
+.stats{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:14px}
+.stat{background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:20px 16px}
+.stat b{display:block;font:600 clamp(34px,6vw,46px)/1 var(--serif);color:var(--accent);margin-bottom:8px}
+.stat span{font-size:14px;color:var(--muted);display:block}
+.split{margin-top:20px;background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:18px 20px;color:var(--muted);font-size:15px}
+.split strong{color:var(--text);font-weight:500}
+.tl{list-style:none;margin:0;padding:0 0 0 28px;position:relative}
+.tl:before{content:"";position:absolute;left:7px;top:8px;bottom:8px;width:2px;background:var(--line)}
+.tl>li{position:relative;margin:0 0 30px}
+.tl>li:before{content:"";position:absolute;left:-28px;top:8px;width:16px;height:16px;border-radius:50%;background:var(--bg);border:2px solid var(--accent)}
+.tl>li.now:before{background:var(--wine);border-color:var(--accent)}
+.date{font-size:13px;letter-spacing:.1em;text-transform:uppercase;color:var(--accent);margin:0 0 4px}
+h3{font-size:clamp(24px,4vw,30px);margin-bottom:10px}
+.card{background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:18px 20px}
+.card ul,.col ul{margin:0;padding-left:20px;color:var(--muted)}
+.card li,.col li{margin:5px 0}
+.cols{display:grid;grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:16px}
+.col{background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:22px 20px}
+.col h3{font-size:26px}
+.who{font-size:12px;letter-spacing:.12em;text-transform:uppercase;color:var(--accent);margin:0 0 8px}
+.alt{background:var(--deep);border-top:1px solid var(--line);border-bottom:1px solid var(--line)}
+p{margin:0 0 12px}
+.muted{color:var(--muted)}
+footer{padding:36px 0 56px;color:var(--soft);font-size:14px}
+@media(min-width:900px){.wrap{padding:0 32px}.tl{padding-left:44px}.tl:before{left:11px}.tl>li:before{left:-44px}header{padding:96px 0 80px}section{padding:80px 0}}
+@media(prefers-reduced-motion:reduce){*{transition:none!important}}
+</style>
+</head>
+<body>
+<header><div class="wrap">
+<p class="eyebrow">Сайт ресторана «ФаСоль»</p>
+<h1>Карта пути</h1>
+<p class="lead">Ярослава, здравствуйте! Здесь в одном месте собрано, как шла работа над сайтом «ФаСоль» с сентября, что уже готово, что мы доделываем сейчас и какие шаги остались до запуска.</p>
+<a class="btn" href="https://elenasamanchuk.github.io/fasol-concept/review-20261109/">Открыть сайт для проверки</a>
+<p class="note">Если откроется старая версия, откройте ссылку в режиме инкогнито.</p>
+</div></header>
+
+<section><div class="wrap">
+<h2>В цифрах</h2>
+<div class="stats">
+<div class="stat"><b>136</b><span>блюд в меню, берутся из вашего электронного меню</span></div>
+<div class="stat"><b>39</b><span>ваших правок за 5–17 ноября, все сверены 19 ноября</span></div>
+<div class="stat"><b>12</b><span>автоматических проверок после каждой правки</span></div>
+<div class="stat"><b>3</b><span>устройства: компьютер, iPhone и Samsung</span></div>
+</div>
+<div class="split"><strong>Из 39 правок:</strong> 32 сделано полностью, 4 частично (нет фото сертификата, десертов и бара), 2 не требовали изменений на сайте, 1 ждёт вашего выбора (домен).</div>
+</div></section>
+
+<section class="alt"><div class="wrap">
+<h2>Как шла работа</h2>
+<ol class="tl">
+<li><p class="date">Сентябрь</p><h3>Знакомство с «ФаСоль»</h3><div class="card"><ul>
+<li>Разобрали ваш бриф</li>
+<li>Изучили, как вас видят гости: электронное меню, Яндекс Карты и отзывы, Instagram, ВКонтакте, агрегаторы, relax.by</li>
+<li>Проверили свободные домены</li></ul></div></li>
+<li><p class="date">Октябрь</p><h3>Предложение и договор</h3><div class="card"><ul>
+<li>Предложение и примеры сайтов для директора</li>
+<li>Договор подписан 30 октября</li>
+<li>Учли референс и схему директора от 30 октября</li></ul></div></li>
+<li><p class="date">5 ноября</p><h3>Три концепции дизайна</h3><div class="card"><ul>
+<li>А «Классика», Б «Вечер», В «Галерея» с презентацией и скринами</li>
+<li>Вы выбрали главную А и заказ навынос Б</li>
+<li>Тёмный фон по вашему цвету Pantone 4975 C</li></ul></div></li>
+<li><p class="date">10 ноября</p><h3>Рабочий сайт по правкам директора</h3><div class="card"><ul>
+<li>На первом экране плавно сменяются пять ваших фото зала</li>
+<li>Меню из трёх разделов с часами подачи, листается одной лентой</li>
+<li>Заказ навынос со скидкой 20 % на основное меню; блюда вне времени приёма видны, но добавить их нельзя</li>
+<li>Бар, интерьер и терраса, для детей, сертификаты, вакансии, контакты</li>
+<li>PDF с экранами и дизайн-системой: цвета, шрифты, кнопки, карточки</li></ul></div></li>
+<li><p class="date">13 и 17 ноября</p><h3>Ваши правки и фото</h3><div class="card"><ul>
+<li>Внесли правки, которые вы прислали</li>
+<li>Подобрали фото под ваш вкус и проверили порядок фото по переписке</li>
+<li>Супы по дням недели: суп сегодняшнего дня первым и с подписью</li>
+<li>КБЖУ в карточках блюд из вашего электронного меню</li></ul></div></li>
+<li><p class="date">18 и 19 ноября</p><h3>Сверка и доводка</h3><div class="card"><ul>
+<li>Сверили все 39 правок за весь период на компьютере и телефоне</li>
+<li>Время приёма проверили на границах 11:55, 14:55 и 22:35</li>
+<li>Главное проверили на iPhone и Samsung</li>
+<li>Подготовили страницы политики конфиденциальности и cookie, баннер согласия, файлы для поиска и место под Яндекс Метрику</li></ul></div></li>
+<li class="now"><p class="date">Дальше</p><h3>Домен, разработчики, запуск</h3><div class="card"><ul>
+<li>Вы выбираете домен</li>
+<li>Ваши разработчики размещают сайт рядом с электронным меню</li>
+<li>Проверка на тестовой копии и запуск</li></ul></div></li>
+</ol>
+</div></section>
+
+<section><div class="wrap">
+<h2>Сейчас</h2>
+<div class="card"><p class="muted">Мы доводим детали, о которых писали:</p><ul>
+<li>галерея «О нас»: фото загружаются заранее и увеличиваются по нажатию</li>
+<li>карточки блюд компактнее и одного размера, длинное описание разворачивается по нажатию</li>
+<li>в подвале реквизиты под логотипом</li>
+<li>в окне «Домашние обеды» на iPhone больше не открываются «Десерты»</li>
+<li>ваши фото IMG_4120 и IMG_3825 на своих местах, в заказе навынос в выборе меню три ваших фото</li>
+<li>убираем мелкую подпись «Европейская кухня · Гомель» на обложке</li>
+<li>два фото коктейлей: аккуратно уберём значок в углу и поставим в бар</li></ul>
+<p class="note">Напишем, когда всё будет выложено.</p></div>
+</div></section>
+
+<section class="alt"><div class="wrap">
+<h2>Следующие шаги</h2>
+<div class="cols">
+<div class="col"><p class="who">Вы</p><h3>Домен и контакт</h3><ul>
+<li>Выбрать адрес сайта. Свободны на 19 ноября: fasolgomel.by, fasol-gomel.by, fasolrest.by, fasol-rest.by, fasolcafe.by, fasol-cafe.by, restoranfasol.by, fasolrestaurant.by, fasolgomel.com, fasol-gomel.com</li>
+<li>Дать контакт вашего разработчика и адрес тестовой копии электронного меню</li>
+<li>Показать политику и согласие на cookie юристу до запуска</li>
+<li>Прислать фото сертификата, десертов, вина и бара, если они появятся</li></ul></div>
+<div class="col"><p class="who">Ваши разработчики</p><h3>Размещение</h3><ul>
+<li>Разместить сайт рядом с электронным меню и подключить новый вид по инструкции</li>
+<li>Проверить на тестовой копии вход, SMS, корзину и пробный заказ</li>
+<li>Поставить приём основного меню до 22:35, как просил директор (сейчас в системе 22:55)</li>
+<li>Настроить время на приготовление: сейчас завтрак в 11:55 предлагает забрать в 12:25</li></ul></div>
+<div class="col"><p class="who">Мы</p><h3>Подготовка и запуск</h3><ul>
+<li>Закончить доводку и написать вам, когда всё выложено</li>
+<li>Передать разработчикам файлы сайта и инструкцию по шагам</li>
+<li>Подключить домен, HTTPS и Метрику: сами, если дадите доступ к регистратору и хостингу, или это сделают разработчики при размещении</li></ul></div>
+</div>
+<div class="split" style="margin-top:24px"><strong>Про домен fasol.by:</strong> он занят другой компанией, оплачен до 13 декабря 2026. Скорее всего его продлят, а если нет, он уйдёт на аукцион, и выиграть его не гарантировано. Поэтому советуем не ждать и выбрать свободный адрес сейчас. fasol.by можно проверить после 13 декабря.</div>
+</div></section>
+
+<section><div class="wrap">
+<h2>Что пока не сделано</h2>
+<div class="card"><ul>
+<li>Фото сертификата, десертов, вина и бара: их пока нет, в сертификатах стоит фото зала</li>
+<li>Поиск по меню: убран по правке директора от 5 ноября</li>
+<li>Цены и названия с алкоголем: убраны с открытой части сайта из-за ограничений на рекламу алкоголя, барная карта без цен</li>
+<li>Описания домашних обедов: у 12 блюд из 13 только вес. Сайт берёт описания из вашего электронного меню, как только они там появятся, они появятся и на сайте</li></ul></div>
+</div></section>
+
+<footer><div class="wrap">Сайт «ФаСоль». Страница для согласования, закрыта от поиска.</div></footer>
+</body>
+</html>
