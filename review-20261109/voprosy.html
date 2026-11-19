@@ -42,6 +42,7 @@ fieldset{border:0;margin:0;padding:0;display:grid;gap:6px}
 .opt:has(input:checked){border-color:var(--acc);background:#fbeef0}
 .opt:has(input:checked) b{background:var(--acc);border-color:var(--acc);color:#fff}
 .opt:has(input:focus-visible){outline:2px solid var(--acc);outline-offset:2px}
+.sec{font:600 30px 'Cormorant Garamond',Georgia,serif;margin:26px 0 8px}.sec-p{margin:0 0 4px;color:var(--muted)}
 .own{display:block;margin-top:10px}
 .own span{display:block;font-size:13px;color:var(--muted);margin-bottom:4px}
 textarea{width:100%;font:inherit;padding:8px 10px;border:1px solid var(--line);background:#fff;resize:vertical;border-radius:0}
@@ -64,7 +65,7 @@ textarea{width:100%;font:inherit;padding:8px 10px;border:1px solid var(--line);b
 </div></header>
 <div class="bar"><div class="wrap"><span class="prog" id="prog">Отвечено 0 из 16</span></div><div class="track"><i id="track"></i></div></div>
 <main class="wrap">
-<form id="f" autocomplete="off"><ol class="qs"><li class="q" id="q1" data-n="1">
+<form id="f" autocomplete="off"><h2 class="sec">Вопросы</h2><ol class="qs"><li class="q" id="q1" data-n="1">
  <h3><span class="n">1</span>Домен</h3>
  <div class="qb"><p>Какой адрес берём? На 19 ноября эти адреса свободны.</p></div>
  <fieldset><legend class="sr">Варианты ответа</legend><label class="opt"><input type="radio" name="q1" value="а"><b>а</b><span>fasolgomel.by или fasol-gomel.by</span></label><label class="opt"><input type="radio" name="q1" value="б"><b>б</b><span>fasolrest.by или fasol-rest.by</span></label><label class="opt"><input type="radio" name="q1" value="в"><b>в</b><span>fasolcafe.by или fasol-cafe.by</span></label><label class="opt"><input type="radio" name="q1" value="г"><b>г</b><span>restoranfasol.by или fasolrestaurant.by</span></label><label class="opt"><input type="radio" name="q1" value="д"><b>д</b><span>fasolgomel.com или fasol-gomel.com</span></label><label class="opt"><input type="radio" name="q1" value="е"><b>е</b><span>Свой вариант, напишу какой</span></label></fieldset>
@@ -144,6 +145,51 @@ textarea{width:100%;font:inherit;padding:8px 10px;border:1px solid var(--line);b
  <div class="qb"><p>Макеты табличек с QR на меню готовы: домик на стол, табличка, наклейка. В брифе для QR ещё отмечены отзывы и Wi-Fi. Что добавить?</p></div>
  <fieldset><legend class="sr">Варианты ответа</legend><label class="opt"><input type="radio" name="q16" value="а"><b>а</b><span>Отзывы в Яндекс Картах и Wi-Fi — пришлю сеть и пароль</span></label><label class="opt"><input type="radio" name="q16" value="б"><b>б</b><span>Только отзывы</span></label><label class="opt"><input type="radio" name="q16" value="в"><b>в</b><span>Оставить только меню</span></label></fieldset>
  <label class="own"><span>Свой ответ или комментарий</span><textarea name="c16" rows="2" maxlength="600"></textarea></label>
+</li></ol><h2 class="sec">Подтвердите, что так ок</h2><p class="sec-p">Здесь мы решили сами или ждём от вас материалы. «Да, ок» уже отмечено — поменяйте, только если нужно иначе.</p><ol class="qs"><li class="q c" id="q17" data-n="17">
+ <h3><span class="n">17</span>Приём навынос до 22:35</h3>
+ <div class="qb"><p>На сайте основное меню навынос принимается до 22:35, как вы писали 13 ноября. В электронном меню сейчас до 22:55 — его поправят у вас.</p></div>
+ <fieldset><legend class="sr">Варианты ответа</legend><label class="opt"><input type="radio" name="q17" value="а" checked><b>а</b><span>Да, ок, 22:35</span></label><label class="opt"><input type="radio" name="q17" value="б"><b>б</b><span>Нужно другое время, напишу</span></label></fieldset>
+ <label class="own"><span>Свой ответ или комментарий</span><textarea name="c17" rows="2" maxlength="600"></textarea></label>
+</li><li class="q c" id="q18" data-n="18">
+ <h3><span class="n">18</span>Скидка 20 % навынос</h3>
+ <div class="qb"><p>Скидка 20 % только на основное меню навынос, завтраки и обеды по полной цене.</p></div>
+ <fieldset><legend class="sr">Варианты ответа</legend><label class="opt"><input type="radio" name="q18" value="а" checked><b>а</b><span>Да, ок</span></label><label class="opt"><input type="radio" name="q18" value="б"><b>б</b><span>Нужно иначе, напишу</span></label></fieldset>
+ <label class="own"><span>Свой ответ или комментарий</span><textarea name="c18" rows="2" maxlength="600"></textarea></label>
+</li><li class="q c" id="q19" data-n="19">
+ <h3><span class="n">19</span>Фото сертификата</h3>
+ <div class="qb"><p>Пока в блоке сертификатов фото зала.</p></div>
+ <fieldset><legend class="sr">Варианты ответа</legend><label class="opt"><input type="radio" name="q19" value="а" checked><b>а</b><span>Ок, пришлю фото сертификата</span></label><label class="opt"><input type="radio" name="q19" value="б"><b>б</b><span>Оставить фото зала</span></label></fieldset>
+ <label class="own"><span>Свой ответ или комментарий</span><textarea name="c19" rows="2" maxlength="600"></textarea></label>
+</li><li class="q c" id="q20" data-n="20">
+ <h3><span class="n">20</span>Вино и товары бара</h3>
+ <div class="qb"><p>Фото вина и товаров бара нет ни в присланном, ни в электронном меню. В баре ваши коктейли и стойка.</p></div>
+ <fieldset><legend class="sr">Варианты ответа</legend><label class="opt"><input type="radio" name="q20" value="а" checked><b>а</b><span>Ок, так и оставить</span></label><label class="opt"><input type="radio" name="q20" value="б"><b>б</b><span>Пришлю фото</span></label></fieldset>
+ <label class="own"><span>Свой ответ или комментарий</span><textarea name="c20" rows="2" maxlength="600"></textarea></label>
+</li><li class="q c" id="q21" data-n="21">
+ <h3><span class="n">21</span>Барная карта без цен</h3>
+ <div class="qb"><p>Барная карта текстом, без цен, для ознакомления; вино внутри барной карты.</p></div>
+ <fieldset><legend class="sr">Варианты ответа</legend><label class="opt"><input type="radio" name="q21" value="а" checked><b>а</b><span>Да, ок</span></label><label class="opt"><input type="radio" name="q21" value="б"><b>б</b><span>Нужны цены или другое, напишу</span></label></fieldset>
+ <label class="own"><span>Свой ответ или комментарий</span><textarea name="c21" rows="2" maxlength="600"></textarea></label>
+</li><li class="q c" id="q22" data-n="22">
+ <h3><span class="n">22</span>Заказ, вход и оплата</h3>
+ <div class="qb"><p>Оформление заказа, вход и оплата остаются в вашем электронном меню: сайт ведёт гостя туда, разработчики подключают к нему новый вид.</p></div>
+ <fieldset><legend class="sr">Варианты ответа</legend><label class="opt"><input type="radio" name="q22" value="а" checked><b>а</b><span>Да, ок</span></label><label class="opt"><input type="radio" name="q22" value="б"><b>б</b><span>Нужно иначе, напишу</span></label></fieldset>
+ <label class="own"><span>Свой ответ или комментарий</span><textarea name="c22" rows="2" maxlength="600"></textarea></label>
+</li><li class="q c" id="q23" data-n="23">
+ <h3><span class="n">23</span>Меню из электронного меню</h3>
+ <div class="qb"><p>Загрузку из Google-таблицы не подключали: меню, цены и КБЖУ берутся из вашего электронного меню.</p></div>
+ <fieldset><legend class="sr">Варианты ответа</legend><label class="opt"><input type="radio" name="q23" value="а" checked><b>а</b><span>Да, ок</span></label><label class="opt"><input type="radio" name="q23" value="б"><b>б</b><span>Нужна таблица</span></label></fieldset>
+ <label class="own"><span>Свой ответ или комментарий</span><textarea name="c23" rows="2" maxlength="600"></textarea></label>
+</li><li class="q c" id="q24" data-n="24">
+ <h3><span class="n">24</span>Кнопка «Доставка»</h3>
+ <div class="qb"><p>Ведёт на вашу страницу в Яндекс Еде.</p></div>
+ <fieldset><legend class="sr">Варианты ответа</legend><label class="opt"><input type="radio" name="q24" value="а" checked><b>а</b><span>Да, ок</span></label><label class="opt"><input type="radio" name="q24" value="б"><b>б</b><span>Нужна другая ссылка, пришлю</span></label></fieldset>
+ <label class="own"><span>Свой ответ или комментарий</span><textarea name="c24" rows="2" maxlength="600"></textarea></label>
+</li><li class="q c" id="q25" data-n="25">
+ <h3><span class="n">25</span>Политики на сайте</h3>
+ <div class="qb"><p>Политика конфиденциальности и политика cookie готовы, в них почта orionholl@yandex.by из ваших настроек. Перед запуском их стоит показать вашему юристу.</p></div>
+ <fieldset><legend class="sr">Варианты ответа</legend><label class="opt"><input type="radio" name="q25" value="а" checked><b>а</b><span>Да, ок, покажем юристу</span></label><label class="opt"><input type="radio" name="q25" value="б"><b>б</b><span>Есть правки, напишу</span></label></fieldset>
+ <label class="own"><span>Свой ответ или комментарий</span><textarea name="c25" rows="2" maxlength="600"></textarea></label>
 </li></ol></form>
 <section class="send">
  <h3 style="font-size:26px">Отправить ответы</h3>
@@ -156,15 +202,16 @@ textarea{width:100%;font:inherit;padding:8px 10px;border:1px solid var(--line);b
 </main>
 <div class="lb" id="lb" role="dialog" aria-label="Фото крупно"><img alt=""></div>
 <script>
-const N=16, KEY='fasol-voprosy-v1', TG="ElaneDmitrievna", L='абвгдеж'
-const titles=["Домен", "Кто настраивает домен и Метрику", "Поиск по меню", "Время в зале", "Время получения навынос", "Последнее фото обложки", "КБЖУ трёх блюд", "КБЖУ на порцию или на 100 г", "Описания обедов", "Вариант Б", "Текст «О нас»", "Десерт в блоке «Меню»", "Тестовая копия для разработчиков", "Название в настройках меню", "Животные, Wi-Fi, коляски", "QR в зале"]
-const opts=[["fasolgomel.by или fasol-gomel.by", "fasolrest.by или fasol-rest.by", "fasolcafe.by или fasol-cafe.by", "restoranfasol.by или fasolrestaurant.by", "fasolgomel.com или fasol-gomel.com", "Свой вариант, напишу какой"], ["Елена", "Наши разработчики вместе с сайтом"], ["Не возвращать", "Вернуть"], ["Да, верно", "Нет, напишу время"], ["Так и оставить", "Кухне нужно другое время, напишу сколько"], ["Оставить", "Пришлю горизонтальное"], ["Оставить ориентировочные", "Пришлю свои цифры"], ["На порцию", "На 100 г"], ["Пришлю состав", "Оставить только вес"], ["Подходит", "Нужны изменения, напишу какие"], ["Окончательный", "Пришлю новый"], ["Оставить", "Другой десерт, напишу какой", "Пришлю своё фото"], ["Есть, проверят сами", "Нужна помощь, пришлю контакт разработчика"], ["Поправим в админке", "Оставить как есть"], ["Да, всё верно", "Частично, напишу что", "Не добавлять"], ["Отзывы в Яндекс Картах и Wi-Fi — пришлю сеть и пароль", "Только отзывы", "Оставить только меню"]]
+const N=16, NT=25, KEY='fasol-voprosy-v1', TG="ElaneDmitrievna", L='абвгдеж'
+const titles=["Домен", "Кто настраивает домен и Метрику", "Поиск по меню", "Время в зале", "Время получения навынос", "Последнее фото обложки", "КБЖУ трёх блюд", "КБЖУ на порцию или на 100 г", "Описания обедов", "Вариант Б", "Текст «О нас»", "Десерт в блоке «Меню»", "Тестовая копия для разработчиков", "Название в настройках меню", "Животные, Wi-Fi, коляски", "QR в зале", "Приём навынос до 22:35", "Скидка 20 % навынос", "Фото сертификата", "Вино и товары бара", "Барная карта без цен", "Заказ, вход и оплата", "Меню из электронного меню", "Кнопка «Доставка»", "Политики на сайте"]
+const opts=[["fasolgomel.by или fasol-gomel.by", "fasolrest.by или fasol-rest.by", "fasolcafe.by или fasol-cafe.by", "restoranfasol.by или fasolrestaurant.by", "fasolgomel.com или fasol-gomel.com", "Свой вариант, напишу какой"], ["Елена", "Наши разработчики вместе с сайтом"], ["Не возвращать", "Вернуть"], ["Да, верно", "Нет, напишу время"], ["Так и оставить", "Кухне нужно другое время, напишу сколько"], ["Оставить", "Пришлю горизонтальное"], ["Оставить ориентировочные", "Пришлю свои цифры"], ["На порцию", "На 100 г"], ["Пришлю состав", "Оставить только вес"], ["Подходит", "Нужны изменения, напишу какие"], ["Окончательный", "Пришлю новый"], ["Оставить", "Другой десерт, напишу какой", "Пришлю своё фото"], ["Есть, проверят сами", "Нужна помощь, пришлю контакт разработчика"], ["Поправим в админке", "Оставить как есть"], ["Да, всё верно", "Частично, напишу что", "Не добавлять"], ["Отзывы в Яндекс Картах и Wi-Fi — пришлю сеть и пароль", "Только отзывы", "Оставить только меню"], ["Да, ок, 22:35", "Нужно другое время, напишу"], ["Да, ок", "Нужно иначе, напишу"], ["Ок, пришлю фото сертификата", "Оставить фото зала"], ["Ок, так и оставить", "Пришлю фото"], ["Да, ок", "Нужны цены или другое, напишу"], ["Да, ок", "Нужно иначе, напишу"], ["Да, ок", "Нужна таблица"], ["Да, ок", "Нужна другая ссылка, пришлю"], ["Да, ок, покажем юристу", "Есть правки, напишу"]]
 const f=document.getElementById('f')
 function load(){try{return JSON.parse(localStorage.getItem(KEY))||{}}catch(e){return {}}}
 function save(){const d={};for(const el of f.elements){if(el.type==='radio'&&el.checked)d[el.name]=el.value;if(el.tagName==='TEXTAREA'&&el.value.trim())d[el.name]=el.value};try{localStorage.setItem(KEY,JSON.stringify(d))}catch(e){};return d}
-function answers(){const d=save(),out=[];for(let k=1;k<=N;k++){const a=d['q'+k]||'',c=(d['c'+k]||'').trim().replace(/\s+/g,' ');if(a||c)out.push({k,a,c})};return out}
-function progress(){const n=answers().length;document.getElementById('prog').textContent=`Отвечено ${n} из ${N}`;document.getElementById('track').style.width=(n/N*100)+'%';for(let k=1;k<=N;k++){const d=load();document.getElementById('q'+k).classList.toggle('done',Boolean(d['q'+k]||(d['c'+k]||'').trim()))}}
-function text(full=true){const a=answers();if(!a.length)return '';return 'ФаСоль, ответы на вопросы:\n'+a.map(x=>x.k+(x.a||'')+(x.c&&full?' — '+x.c:'')).join('\n')}
+function answers(){const d=save(),out=[];for(let k=1;k<=NT;k++){const a=d['q'+k]||'',c=(d['c'+k]||'').trim().replace(/\s+/g,' ');if(k>N?(a&&a!=='а')||c:(a||c))out.push({k,a,c})};return out}
+function okLine(){if(NT===N)return '';const d=load(),dev=[];for(let k=N+1;k<=NT;k++)if((d['q'+k]&&d['q'+k]!=='а')||(d['c'+k]||'').trim())dev.push(k);return dev.length?`Остальные из ${N+1}–${NT}: ок`:`${N+1}–${NT}: всё ок`}
+function progress(){const n=answers().filter(x=>x.k<=N).length;document.getElementById('prog').textContent=`Отвечено ${n} из ${N}`;document.getElementById('track').style.width=(n/N*100)+'%';for(let k=1;k<=NT;k++){const d=load();document.getElementById('q'+k).classList.toggle('done',Boolean(d['q'+k]||(d['c'+k]||'').trim()))}}
+function text(full=true){const a=answers();if(!a.length&&NT===N)return '';const ol=okLine();return 'ФаСоль, ответы на вопросы:\n'+a.map(x=>x.k+(x.a||'')+(x.c&&full?' — '+x.c:'')).join('\n')+(ol?'\n'+ol:'')}
 const d0=load();for(const el of f.elements){if(el.type==='radio'&&d0[el.name]===el.value)el.checked=true;if(el.tagName==='TEXTAREA'&&d0[el.name])el.value=d0[el.name]}
 f.addEventListener('change',progress);f.addEventListener('input',()=>{save();progress()});progress()
 const note=t=>document.getElementById('note').textContent=t
@@ -177,12 +224,12 @@ const wait=ms=>new Promise(r=>setTimeout(r,ms))
 async function supported(){try{const c=new AbortController();setTimeout(()=>c.abort(),15000);const j=await (await fetch(EP+'?answers=probe',{cache:'no-store',signal:c.signal})).json();return j&&j.answers===true}catch(e){return false}}
 async function postOnce(body){try{const c=new AbortController();setTimeout(()=>c.abort(),60000);const j=await (await fetch(EP,{method:'POST',body,signal:c.signal,redirect:'follow'})).json().catch(()=>null);if(j&&j.ok)return 'ok';if(j&&j.ok===false)throw Object.assign(new Error(j.error||'Не принято'),{fatal:true});return 'lost'}catch(e){if(e.fatal)throw e;return 'lost'}}
 async function arrived(id){for(let i=0;i<6;i++){await wait(i?2500:800);try{const j=await (await fetch(EP+'?status='+encodeURIComponent(id),{cache:'no-store'})).json();if(j.state==='done'||j.state==='processing')return true;if(j.state==='unknown'||j.state==='failed')return false}catch(e){}};return false}
-function payload(id){const a=answers();return JSON.stringify({type:'answers',key:FK,id,project:'ФаСоль',tag:'fasol_answers',total:N,note:window.FASOL_TEST||'',items:a.map(x=>({n:x.k,title:titles[x.k-1],letter:x.a,answer:x.a?opts[x.k-1][L.indexOf(x.a)]:'',comment:x.c}))})}
+function payload(id){const a=answers();return JSON.stringify({type:'answers',key:FK,id,project:'ФаСоль',tag:'fasol_answers',total:N,note:[window.FASOL_TEST||'',okLine()].filter(Boolean).join(' · '),items:a.map(x=>({n:x.k,title:titles[x.k-1],letter:x.a,answer:x.a?opts[x.k-1][L.indexOf(x.a)]:'',comment:x.c}))})}
 function thanks(){const m=document.querySelector('main');m.innerHTML='<section class="thanks" tabindex="-1" id="thanks"><b aria-hidden="true">✓</b><h2>Спасибо, ответы у Елены</h2><p>Если захотите что-то поменять, исправьте ответ на этой странице и отправьте ещё раз.</p></section>';try{localStorage.removeItem(KEY+'-id')}catch(e){};document.getElementById('thanks').focus();scrollTo(0,0)}
 const btn=document.getElementById('send')
 let MODE='tg';supported().then(ok=>{if(ok){MODE='post';document.getElementById('alt').firstChild.textContent='Ответы придут Елене сразу. Можно также '}})
 function openTg(){let t=text();if(t.length>1800){copy(t);t=text(false)+'\n(комментарии скопированы, вставлю следующим сообщением)';note('Текст длинный: в Telegram уйдут буквы ответов, а полный текст с комментариями скопирован — вставьте его следующим сообщением.')};window.open(tgUrl(t),'_blank','noopener')}
-btn.onclick=async()=>{if(!answers().length)return note('Пока нет ни одного ответа.');
+btn.onclick=async()=>{if(!text())return note('Пока нет ни одного ответа.');
  if(MODE!=='post')return openTg()
  btn.disabled=true;note('Отправляем…')
  try{const id=sid(),body=payload(id);for(let i=0;i<3;i++){if(await postOnce(body)==='ok'||await arrived(id))return thanks()};throw new Error('lost')}
