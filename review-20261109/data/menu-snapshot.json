@@ -2145,7 +2145,7 @@
         "fat": "8",
         "carbohydrate": "57",
         "weight": null,
-        "estimated": "https://calorizator.ru/product/bread/brioche (304 ккал, 5,2 / 7,5 / 57,2 г)"
+        "estimated": true
       }
     },
     {
