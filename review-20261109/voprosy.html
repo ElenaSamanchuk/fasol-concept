@@ -53,7 +53,7 @@ textarea{width:100%;font:inherit;padding:8px 10px;border:1px solid var(--line);b
 .hint{margin:10px 0 0;font-size:14px;color:var(--muted)}
 .lnk{font:inherit;color:var(--acc);background:none;border:0;padding:0;text-decoration:underline;cursor:pointer}
 .thanks{background:var(--card);border:1px solid var(--line);padding:28px 18px;margin:24px 0 40px;text-align:center}.thanks b{display:grid;place-items:center;width:56px;height:56px;margin:0 auto 12px;background:var(--ok);color:#fff;font-size:28px}.thanks h2{font:600 32px 'Cormorant Garamond',Georgia,serif;margin:0 0 8px}
-.note{margin:10px 0 0;font-weight:600;color:var(--ok);min-height:1.5em}
+.note{margin:10px 0 0;font-weight:600;color:var(--wine);min-height:1.5em}
 .lb{position:fixed;inset:0;z-index:20;display:none;place-items:center;background:rgba(20,8,9,.88);padding:16px}
 .lb.on{display:grid}.lb img{max-width:100%;max-height:90vh}
 @media(max-width:480px){.qb{flex-direction:column}.pic{width:100%}.pic img{height:160px}.btn{width:100%}}
@@ -150,7 +150,7 @@ textarea{width:100%;font:inherit;padding:8px 10px;border:1px solid var(--line);b
  <div class="btns">
   <button class="btn btn-main" id="send" type="button">Отправить ответы Елене</button>
  </div>
- <p class="hint" id="alt">Если не отправляется: <button class="lnk" id="tg" type="button">написать Елене в Telegram с готовым текстом</button> или <button class="lnk" id="copy" type="button">скопировать ответы</button> и вставить в чат с Еленой.</p>
+ <p class="hint" id="alt">Откроется Telegram с готовым текстом — нажмите там «Отправить». Можно также <button class="lnk" id="copy" type="button">скопировать ответы</button> и вставить в чат с Еленой.</p>
  <p class="note" id="note" role="status"></p>
 </section>
 </main>
@@ -180,15 +180,14 @@ async function arrived(id){for(let i=0;i<6;i++){await wait(i?2500:800);try{const
 function payload(id){const a=answers();return JSON.stringify({type:'answers',key:FK,id,project:'ФаСоль',tag:'fasol_answers',total:N,note:window.FASOL_TEST||'',items:a.map(x=>({n:x.k,title:titles[x.k-1],letter:x.a,answer:x.a?opts[x.k-1][L.indexOf(x.a)]:'',comment:x.c}))})}
 function thanks(){const m=document.querySelector('main');m.innerHTML='<section class="thanks" tabindex="-1" id="thanks"><b aria-hidden="true">✓</b><h2>Спасибо, ответы у Елены</h2><p>Если захотите что-то поменять, исправьте ответ на этой странице и отправьте ещё раз.</p></section>';try{localStorage.removeItem(KEY+'-id')}catch(e){};document.getElementById('thanks').focus();scrollTo(0,0)}
 const btn=document.getElementById('send')
-btn.onclick=async()=>{if(!answers().length)return note('Пока нет ни одного ответа.');btn.disabled=true;note('Отправляем…')
- try{if(!(await supported()))throw new Error('off');const id=sid(),body=payload(id)
-  for(let i=0;i<3;i++){if(await postOnce(body)==='ok'||await arrived(id))return thanks();note('Проверяем, что всё дошло…')}
-  throw new Error('lost')}
- catch(e){note('Не получилось отправить автоматически. Нажмите «написать Елене в Telegram» ниже — текст уже готов.');document.getElementById('alt').style.fontWeight='600'}
+let MODE='tg';supported().then(ok=>{if(ok){MODE='post';document.getElementById('alt').firstChild.textContent='Ответы придут Елене сразу. Можно также '}})
+function openTg(){let t=text();if(t.length>1800){copy(t);t=text(false)+'\n(комментарии скопированы, вставлю следующим сообщением)';note('Текст длинный: в Telegram уйдут буквы ответов, а полный текст с комментариями скопирован — вставьте его следующим сообщением.')};window.open(tgUrl(t),'_blank','noopener')}
+btn.onclick=async()=>{if(!answers().length)return note('Пока нет ни одного ответа.');
+ if(MODE!=='post')return openTg()
+ btn.disabled=true;note('Отправляем…')
+ try{const id=sid(),body=payload(id);for(let i=0;i<3;i++){if(await postOnce(body)==='ok'||await arrived(id))return thanks()};throw new Error('lost')}
+ catch(e){MODE='tg';document.getElementById('alt').firstChild.textContent='Откроется Telegram с готовым текстом — нажмите там «Отправить». Можно также ';note('Нажмите кнопку ещё раз — откроется Telegram с готовым текстом.')}
  finally{btn.disabled=false}}
-document.getElementById('tg').onclick=async()=>{let t=text();if(!t)return note('Пока нет ни одного ответа.');
- if(t.length>1800){await copy(t);t=text(false)+'\n(комментарии скопированы, вставлю следующим сообщением)';note('Текст длинный: в Telegram уйдут буквы ответов, полный текст с комментариями скопирован — вставьте его следующим сообщением.')}
- window.open(tgUrl(t),'_blank','noopener')}
 const lb=document.getElementById('lb')
 document.addEventListener('click',ev=>{const b=ev.target.closest('.pic');if(b){lb.querySelector('img').src=b.dataset.big;lb.classList.add('on')}else if(ev.target.closest('#lb'))lb.classList.remove('on')})
 document.addEventListener('keydown',ev=>{if(ev.key==='Escape')lb.classList.remove('on')})
