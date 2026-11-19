@@ -1,6 +1,6 @@
 {
   "source": "https://fasol.orionhall.by/",
-  "fetchedAt": "2026-10-30T17:12:00+03:00",
+  "fetchedAt": "2026-11-19T14:58+03:00",
   "currency": "BYN",
   "priceType": "base_before_pickup_discount",
   "availability": "snapshot_not_live; hidden/stoplist filtered at fetch time; schedules not applied",
@@ -2311,6 +2311,42 @@
       }
     },
     {
+      "id": 1775,
+      "code": 9094,
+      "name": "Куриный",
+      "price": 4.5,
+      "image": "img/remote-menu/dish-1775.webp",
+      "description": "с грибами, яйцом, морковью и яблоком",
+      "root": 5474,
+      "category": "Салаты обед",
+      "categoryCode": 5491,
+      "nutrition": {
+        "calories": "196",
+        "protein": "12",
+        "fat": "15",
+        "carbohydrate": "1",
+        "weight": "100"
+      }
+    },
+    {
+      "id": 1765,
+      "code": 9096,
+      "name": "Большая куриная отбивная",
+      "price": 6.7,
+      "image": "img/remote-menu/dish-1765.webp",
+      "description": "в сухариках Панко",
+      "root": 5474,
+      "category": "Горячие блюда обед",
+      "categoryCode": 5483,
+      "nutrition": {
+        "calories": "189",
+        "protein": "12",
+        "fat": "14",
+        "carbohydrate": "2",
+        "weight": "140"
+      }
+    },
+    {
       "id": 1766,
       "code": 9100,
       "name": "Голубцы",
@@ -2326,6 +2362,80 @@
         "fat": "7",
         "carbohydrate": "4",
         "weight": "180/50"
+      }
+    },
+    {
+      "id": 1767,
+      "code": 9098,
+      "name": "Котлета куриная",
+      "price": 5.9,
+      "image": "img/remote-menu/dish-1767.webp",
+      "description": "",
+      "root": 5474,
+      "category": "Горячие блюда обед",
+      "categoryCode": 5483,
+      "nutrition": {
+        "calories": "109",
+        "protein": "15",
+        "fat": "2",
+        "carbohydrate": "5",
+        "weight": "100"
+      }
+    },
+    {
+      "id": 1768,
+      "code": 9101,
+      "name": "Печень по-строгановски",
+      "price": 5.5,
+      "image": "img/remote-menu/dish-1768.webp",
+      "description": "",
+      "root": 5474,
+      "category": "Горячие блюда обед",
+      "categoryCode": 5483,
+      "nutrition": {
+        "calories": "153",
+        "protein": "9",
+        "fat": "9",
+        "carbohydrate": "6",
+        "weight": "120"
+      }
+    },
+    {
+      "id": 1770,
+      "code": 9097,
+      "name": "Рубленная свиная отбивная",
+      "price": 7.5,
+      "image": "img/remote-menu/dish-1770.webp",
+      "description": "в кляре",
+      "root": 5474,
+      "category": "Горячие блюда обед",
+      "categoryCode": 5483,
+      "nutrition": {
+        "calories": "320",
+        "protein": "19",
+        "fat": "22",
+        "carbohydrate": "12",
+        "weight": "120",
+        "estimated": true
+      }
+    },
+    {
+      "id": 1771,
+      "code": 9102,
+      "name": "Рыбный биточек",
+      "price": 7.9,
+      "image": "img/remote-menu/dish-1771.webp",
+      "description": "запечённый с овощами",
+      "root": 5474,
+      "category": "Горячие блюда обед",
+      "categoryCode": 5483,
+      "nutrition": {
+        "calories": "150",
+        "protein": "14",
+        "fat": "7",
+        "carbohydrate": "8",
+        "weight": "170",
+        "estimated": true
       }
     },
     {
@@ -2434,25 +2544,6 @@
         "fat": "2",
         "carbohydrate": "8",
         "weight": null
-      }
-    },
-    {
-      "id": 1799,
-      "code": 9103,
-      "name": "Пирожное картошка",
-      "price": 3.3,
-      "image": "img/remote-menu/dish-1799.webp",
-      "description": "",
-      "root": 5474,
-      "category": "Десерты обед (В)",
-      "categoryCode": 9105,
-      "nutrition": {
-        "calories": "392",
-        "protein": "4",
-        "fat": "20",
-        "carbohydrate": "49",
-        "weight": "60",
-        "estimated": "https://calorizator.ru/product/cake/pastry-1, «Картошка с кремом» (392 ккал, 4,3 / 19,7 / 48,9 г)"
       }
     }
   ],
